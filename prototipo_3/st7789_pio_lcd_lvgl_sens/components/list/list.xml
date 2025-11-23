@@ -1,0 +1,53 @@
+<component>
+	<animations>
+		<timeline name="list_open">
+			<animation prop="opa" start="0" end="255" duration="300" early_apply="true" target="self" />
+			<animation prop="translate_x" start="60" end="0" duration="300" early_apply="true" target="self" />
+
+			<include_timeline target="btn_0" timeline="show_up" delay="100" />
+			<include_timeline target="btn_1" timeline="show_up" delay="150" />
+			<include_timeline target="btn_2" timeline="show_up" delay="200" />
+			<include_timeline target="btn_3" timeline="show_up" delay="250" />
+			<include_timeline target="btn_4" timeline="show_up" delay="300" />
+			<include_timeline target="btn_5" timeline="show_up" delay="350" />
+			<include_timeline target="btn_6" timeline="show_up" delay="400" />
+			<include_timeline target="btn_7" timeline="show_up" delay="450" />
+			<include_timeline target="btn_8" timeline="show_up" delay="500" />
+			<include_timeline target="btn_w" timeline="show_up" delay="550" />
+			<include_timeline target="btn_9" timeline="show_up" delay="600" />
+			<include_timeline target="btn_dbm" timeline="show_up" delay="650" />
+			<include_timeline target="btn_enter" timeline="show_up" delay="700" />
+			<include_timeline target="btn_point" timeline="show_up" delay="700" />
+		</timeline>
+	</animations>
+
+	<view
+		flex_flow="row_wrap"
+		style_pad_all="#unit_small"
+		style_flex_main_place="space_around"
+		style_flex_track_place="space_around"
+		style_bg_color="0x8db4ef"
+		height="300"
+		width="240"
+	>
+		<!-- Campo de texto -->
+		<lv_textarea name="display" width="100%" height="50" style_text_align="right" />
+
+		<!-- Botões numéricos -->
+		<button_normal name="btn_0" label_text="0" />
+		<button_normal name="btn_1" label_text="1" />
+		<button_normal name="btn_2" label_text="2" />
+		<button_normal name="btn_3" label_text="3" />
+		<button_normal name="btn_4" label_text="4" />
+		<button_normal name="btn_5" label_text="5" />
+		<button_normal name="btn_6" label_text="6" />
+		<button_normal name="btn_7" label_text="7" />
+		<button_normal name="btn_8" label_text="8" />
+
+		<button_normal name="btn_w" label_text="W" width="55" />
+		<button_normal name="btn_9" label_text="9" />
+		<button_normal name="btn_dbm" label_text="Dbm" width="55" />
+		<button_normal name="btn_enter" label_text="ENTER" width="130" />
+		<button_normal name="btn_point" label_text="." width="55" />
+	</view>
+</component>
