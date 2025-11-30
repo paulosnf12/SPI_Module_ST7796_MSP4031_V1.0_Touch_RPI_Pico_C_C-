@@ -13,6 +13,8 @@
 #include "components/buttons/button_normal_gen.h"
 #include "components/buttons/button_show_numpad_gen.h"
 #include "components/list/list_gen.h"
+#include "components/arc/arc_gen.h"
+#include "components/visor/visor_gen.h"
 
 #include "hardware/i2c.h"
 #include "aht10.h"

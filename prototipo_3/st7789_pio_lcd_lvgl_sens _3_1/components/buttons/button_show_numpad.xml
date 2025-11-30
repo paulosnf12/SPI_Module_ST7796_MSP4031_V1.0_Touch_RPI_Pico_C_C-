@@ -1,0 +1,51 @@
+<!-- A simple button that defines a show up animation for itself -->
+<component>
+	<api>
+		<prop name="button_image" type="image" default="seta_esquerda" />
+		<prop name="toggle" type="bool" default="false" />
+		<prop name="checked" type="bool" default="false" />
+	</api>
+
+	<styles>
+		<style
+			name="style_base"
+			bg_opa="100%"
+			bg_color="#dark_blue"
+			width="content"
+			height="content"
+			radius="#unit_medium"
+			pad_hor="#unit_large"
+			pad_ver="#unit_medium"
+			text_color="0xfff"
+		/>
+
+		<style name="style_pressed" recolor="0xfff" recolor_opa="20%" />
+	</styles>
+
+	<animations>
+		<!-- Fade in and move up 
+		     This animation can be played later in an event by a parent component or screen -->
+		<timeline name="show_up">
+			<animation target="self" prop="opa" start="0" end="255" duration="200" early_apply="true" />
+			<animation target="self" prop="translate_y" start="20" end="0" duration="200" early_apply="true" />
+		</timeline>
+	</animations>
+
+	<view extends="lv_button" checked="$checked">
+		<remove_style_all />
+		<style name="style_base" />
+		<style name="style_pressed" selector="pressed" />
+
+		<lv_obj
+			width="content"
+			height="content"
+			style_bg_opa="0"
+			style_border_width="0"
+			style_pad_all="0"
+			scrollable="false"
+			align="center"
+		>
+			<lv_image src="$button_image" align="center" />
+		</lv_obj>
+	</view>
+</component>

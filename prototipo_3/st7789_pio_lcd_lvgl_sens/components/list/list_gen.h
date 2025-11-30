@@ -38,8 +38,6 @@ typedef enum {
 
 lv_obj_t * list_create(lv_obj_t * parent);
 
-extern lv_obj_t * display_tela;
-
 /**
  * Get a timeline of a list
  * @param obj          pointer to a list component
