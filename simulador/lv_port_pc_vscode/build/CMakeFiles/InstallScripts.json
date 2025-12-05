@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/cmake_install.cmake",
+		"C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

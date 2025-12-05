@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{CE40E80A-3AA2-3AC2-9F47-75A38C8581FB}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>lvgl_thorvg</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl\lib\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">lvgl_thorvg.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">lvgl_thorvg</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl\lib\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">lvgl_thorvg.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">lvgl_thorvg</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl\lib\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">lvgl_thorvg.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">lvgl_thorvg</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl\lib\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">lvgl_thorvg.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">lvgl_thorvg</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.lib</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\main\inc;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg;C:\msys64\mingw64\include;C:\msys64\mingw64\include\SDL2;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/examples" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/demos"</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;LV_KCONFIG_IGNORE;LV_CONF_INCLUDE_SIMPLE;LV_LVGL_H_INCLUDE_SIMPLE;CMAKE_INTDIR="Debug"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;LV_KCONFIG_IGNORE;LV_CONF_INCLUDE_SIMPLE;LV_LVGL_H_INCLUDE_SIMPLE;CMAKE_INTDIR=\"Debug\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\main\inc;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg;C:\msys64\mingw64\include;C:\msys64\mingw64\include\SDL2;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\examples;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\demos;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\main\inc;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg;C:\msys64\mingw64\include;C:\msys64\mingw64\include\SDL2;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\examples;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\demos;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\main\inc;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg;C:\msys64\mingw64\include;C:\msys64\mingw64\include\SDL2;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/examples" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/demos"</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;LV_KCONFIG_IGNORE;LV_CONF_INCLUDE_SIMPLE;LV_LVGL_H_INCLUDE_SIMPLE;CMAKE_INTDIR="Release"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;LV_KCONFIG_IGNORE;LV_CONF_INCLUDE_SIMPLE;LV_LVGL_H_INCLUDE_SIMPLE;CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\main\inc;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg;C:\msys64\mingw64\include;C:\msys64\mingw64\include\SDL2;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\examples;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\demos;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\main\inc;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg;C:\msys64\mingw64\include;C:\msys64\mingw64\include\SDL2;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\examples;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\demos;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\main\inc;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg;C:\msys64\mingw64\include;C:\msys64\mingw64\include\SDL2;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/examples" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/demos"</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;LV_KCONFIG_IGNORE;LV_CONF_INCLUDE_SIMPLE;LV_LVGL_H_INCLUDE_SIMPLE;CMAKE_INTDIR="MinSizeRel"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;LV_KCONFIG_IGNORE;LV_CONF_INCLUDE_SIMPLE;LV_LVGL_H_INCLUDE_SIMPLE;CMAKE_INTDIR=\"MinSizeRel\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\main\inc;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg;C:\msys64\mingw64\include;C:\msys64\mingw64\include\SDL2;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\examples;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\demos;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\main\inc;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg;C:\msys64\mingw64\include;C:\msys64\mingw64\include\SDL2;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\examples;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\demos;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\main\inc;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg;C:\msys64\mingw64\include;C:\msys64\mingw64\include\SDL2;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/examples" /external:I "C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/demos"</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;LV_KCONFIG_IGNORE;LV_CONF_INCLUDE_SIMPLE;LV_LVGL_H_INCLUDE_SIMPLE;CMAKE_INTDIR="RelWithDebInfo"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;LV_KCONFIG_IGNORE;LV_CONF_INCLUDE_SIMPLE;LV_LVGL_H_INCLUDE_SIMPLE;CMAKE_INTDIR=\"RelWithDebInfo\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\main\inc;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg;C:\msys64\mingw64\include;C:\msys64\mingw64\include\SDL2;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\examples;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\demos;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\main\inc;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg;C:\msys64\mingw64\include;C:\msys64\mingw64\include\SDL2;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\examples;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\demos;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode -BC:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build --check-stamp-file C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\env_support\cmake\os_desktop.cmake;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\env_support\cmake\version.cmake;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\lv_version.h.in;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\lvgl.pc.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode -BC:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build --check-stamp-file C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\env_support\cmake\os_desktop.cmake;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\env_support\cmake\version.cmake;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\lv_version.h.in;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\lvgl.pc.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode -BC:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build --check-stamp-file C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\env_support\cmake\os_desktop.cmake;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\env_support\cmake\version.cmake;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\lv_version.h.in;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\lvgl.pc.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode -BC:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build --check-stamp-file C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\env_support\cmake\os_desktop.cmake;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\env_support\cmake\version.cmake;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\lv_version.h.in;C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\lvgl.pc.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgAccessor.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgAnimation.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgCanvas.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgCapi.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgCompressor.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgFill.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgGlCanvas.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgInitializer.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgLoader.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgLottieAnimation.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgLottieBuilder.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgLottieExpressions.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgLottieInterpolator.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgLottieLoader.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgLottieModel.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgLottieModifier.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgLottieParser.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgLottieParserHandler.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgMath.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgPaint.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgPicture.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgRawLoader.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgRender.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSaver.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgScene.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgShape.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgStr.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSvgCssStyle.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSvgLoader.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSvgPath.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSvgSceneBuilder.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSvgUtil.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSwCanvas.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSwFill.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSwImage.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSwMath.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSwMemPool.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSwPostEffect.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSwRaster.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSwRenderer.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSwRle.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSwShape.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgSwStroke.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgTaskScheduler.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgText.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgWgCanvas.cpp" />
+    <ClCompile Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\thorvg\tvgXmlParser.cpp" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\lvgl\lvgl_examples.vcxproj">
+      <Project>{5829A136-13BA-38A4-BBCB-7B8E101022CC}</Project>
+      <Name>lvgl_examples</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,10 @@
+C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/CMakeFiles/run.dir
+C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/CMakeFiles/main.dir
+C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/CMakeFiles/INSTALL.dir
+C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl/CMakeFiles/lvgl.dir
+C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl/CMakeFiles/lvgl_thorvg.dir
+C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl/CMakeFiles/lvgl_examples.dir
+C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl/CMakeFiles/lvgl_demos.dir
+C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/build/lvgl/CMakeFiles/INSTALL.dir
