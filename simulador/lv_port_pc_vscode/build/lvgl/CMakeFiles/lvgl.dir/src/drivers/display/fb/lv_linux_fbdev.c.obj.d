@@ -1,0 +1,44 @@
+lvgl/CMakeFiles/lvgl.dir/src/drivers/display/fb/lv_linux_fbdev.c.obj: \
+ C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\drivers\display\fb\lv_linux_fbdev.c \
+ C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\drivers\display\fb\lv_linux_fbdev.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/display/lv_display.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lv_conf.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
+ C:/msys64/mingw64/include/stdint.h C:/msys64/mingw64/include/crtdefs.h \
+ C:/msys64/mingw64/include/corecrt.h C:/msys64/mingw64/include/_mingw.h \
+ C:/msys64/mingw64/include/_mingw_mac.h \
+ C:/msys64/mingw64/include/_mingw_secapi.h \
+ C:/msys64/mingw64/include/vadefs.h \
+ C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
+ C:/msys64/mingw64/include/stddef.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h \
+ C:/msys64/mingw64/include/inttypes.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+ C:/msys64/mingw64/include/limits.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h \
+ C:/msys64/mingw64/include/stdarg.h \
+ C:/msys64/mingw64/include/_mingw_stdarg.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_timer.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/tick/lv_tick.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_ll.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_event.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_array.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_color.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_assert.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_log.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/stdlib/lv_mem.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/stdlib/lv_string.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_math.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_palette.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_color.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_color_op.h \
+ C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_area.h
