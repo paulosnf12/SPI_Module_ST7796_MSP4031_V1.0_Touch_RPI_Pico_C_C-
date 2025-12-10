@@ -1,3 +1,11 @@
+# Início de testes com simulador lvgl
+
+
+https://github.com/user-attachments/assets/710c31e4-b64d-45f3-a3fd-20b581a355b4
+
+
+
+
 # VSCode Simulator project for LVGL
 
 [LVGL](https://github.com/lvgl/lvgl) is written mainly for microcontrollers and embedded systems, however you can run the library **on your PC** as well without any embedded hardware. The code written on PC can be simply copied when your are using an embedded system.
