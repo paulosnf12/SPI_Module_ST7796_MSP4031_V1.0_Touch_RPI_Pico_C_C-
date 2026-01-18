@@ -1,3 +1,15 @@
+# Exemplo simulador teste antigo
+
+
+
+https://github.com/user-attachments/assets/0b0dc298-816e-4609-878a-2108ddbbb5a9
+
+
+
+
+
+
+
 # Início de testes com simulador lvgl
 
 
