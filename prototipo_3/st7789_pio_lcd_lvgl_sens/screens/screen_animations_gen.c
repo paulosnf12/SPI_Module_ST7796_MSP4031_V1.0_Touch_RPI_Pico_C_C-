@@ -94,7 +94,7 @@ lv_obj_t * screen_animations_create(void)
     lv_obj_set_name(visor, "visor");
     lv_obj_set_align(visor, LV_ALIGN_TOP_MID);
     lv_obj_set_pos(visor, 0, 10);
-    lv_obj_set_size(visor, 360, 140);
+    lv_obj_set_size(visor, 360, 300);
 
     /***************************
      * ARC
