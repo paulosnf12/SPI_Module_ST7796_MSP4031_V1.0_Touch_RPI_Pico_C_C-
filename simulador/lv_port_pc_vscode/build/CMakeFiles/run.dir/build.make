@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode
+CMAKE_SOURCE_DIR = C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build
+CMAKE_BINARY_DIR = C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build
 
 # Utility rule file for run.
 
@@ -65,8 +65,8 @@ include CMakeFiles/run.dir/compiler_depend.make
 # Include the progress variables for this target.
 include CMakeFiles/run.dir/progress.make
 
-CMakeFiles/run: C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe
-	C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\bin\main
+CMakeFiles/run: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe
+	C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\bin\main
 
 CMakeFiles/run.dir/codegen:
 .PHONY : CMakeFiles/run.dir/codegen
@@ -84,6 +84,6 @@ CMakeFiles/run.dir/clean:
 .PHONY : CMakeFiles/run.dir/clean
 
 CMakeFiles/run.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\CMakeFiles\run.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles\run.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/run.dir/depend
 
