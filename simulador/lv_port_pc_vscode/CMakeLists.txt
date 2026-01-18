@@ -26,6 +26,13 @@ if(USE_FREERTOS)
     include_directories(${PROJECT_SOURCE_DIR}/FreeRTOS/portable/ThirdParty/GCC/Posix)
     include_directories(${PROJECT_SOURCE_DIR}/config)
 
+    # --- ADICIONE ESTA LINHA ---
+    message(WARNING "ARQUIVOS ENCONTRADOS NA USER_SOURCES: ${USER_SOURCES}")
+# ---------------------------
+
+    # Incluir a pasta 'ui' para que os headers (.h) sejam encontrados
+    include_directories("${PROJECT_SOURCE_DIR}/projeto")
+
     # Add FreeRTOS sources
     file(GLOB FREERTOS_SOURCES
         "${PROJECT_SOURCE_DIR}/FreeRTOS/*.c"
@@ -36,6 +43,48 @@ else()
     message(STATUS "FreeRTOS is disabled")
     set(FREERTOS_SOURCES "")  # No FreeRTOS sources if FreeRTOS is disabled
 endif()
+
+# Adicionar recursivamente todos os fontes .c da sua pasta 'ui'
+file(GLOB_RECURSE USER_SOURCES "${PROJECT_SOURCE_DIR}/projeto/*.c")
+
+# Define a pasta raiz do seu código para facilitar
+set(MY_UI_DIR "${CMAKE_SOURCE_DIR}/projeto")
+
+# 1. Busca fontes (.c) explicitamente em cada subpasta crítica
+# Isso evita que o GLOB_RECURSE genérico falhe silenciosamente
+file(GLOB_RECURSE SOURCES_COMPONENTS "${MY_UI_DIR}/components/*.c")
+file(GLOB_RECURSE SOURCES_SCREENS    "${MY_UI_DIR}/screens/*.c")
+file(GLOB_RECURSE SOURCES_UI         "${MY_UI_DIR}/ui/*.c")
+file(GLOB_RECURSE SOURCES_ROOT       "${MY_UI_DIR}/*.c")
+
+# 2. Combina tudo na variável final
+set(USER_SOURCES
+    ${SOURCES_COMPONENTS}
+    ${SOURCES_SCREENS}
+    ${SOURCES_UI}
+    ${SOURCES_ROOT}
+)
+
+# 3. Adiciona TODOS os subdiretórios aos Includes (.h)
+# Isso permite usar #include "arc_gen.h" sem precisar por o caminho completo
+include_directories("${MY_UI_DIR}")
+
+# Script para adicionar subpastas recursivamente aos includes
+file(GLOB_RECURSE ALL_SUBDIRS LIST_DIRECTORIES true "${MY_UI_DIR}/*")
+foreach(subdir ${ALL_SUBDIRS})
+    if(IS_DIRECTORY ${subdir})
+        include_directories(${subdir})
+    endif()
+endforeach()
+
+# 4. DEBUG: Mostra no terminal o que ele vai compilar (Hora da verdade!)
+message(STATUS "==========================================")
+message(STATUS "   ARQUIVOS ENCONTRADOS PARA COMPILAÇÃO   ")
+message(STATUS "==========================================")
+foreach(src ${USER_SOURCES})
+    message(STATUS "-> ${src}")
+endforeach()
+message(STATUS "==========================================")
 
 # Main include files of the project
 include_directories(${PROJECT_SOURCE_DIR}/main/inc)
@@ -70,7 +119,7 @@ add_subdirectory(lvgl)
 target_include_directories(lvgl PUBLIC ${PROJECT_SOURCE_DIR} ${SDL2_INCLUDE_DIRS})
 
 set(MAIN_SOURCES src/mouse_cursor_icon.c src/hal/hal.c)
-set(MAIN_LIBS lvgl lvgl::examples lvgl::demos lvgl::thorvg ${SDL2_LIBRARIES})
+set(MAIN_LIBS lvgl lvgl::thorvg ${SDL2_LIBRARIES})
 
 # Create the main executable, depending on the FreeRTOS option
 if(USE_FREERTOS)
@@ -141,7 +190,7 @@ if(LVGL_PRO_PROJECT_DIR)
   endif()
 endif()
 
-add_executable(main ${MAIN_SOURCES})
+add_executable(main ${MAIN_SOURCES} ${USER_SOURCES})
 target_compile_definitions(main PRIVATE LV_CONF_INCLUDE_SIMPLE)
 target_link_libraries(main ${MAIN_LIBS})
 

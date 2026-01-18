@@ -56,10 +56,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode
+CMAKE_SOURCE_DIR = C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build
+CMAKE_BINARY_DIR = C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -131,9 +131,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\CMakeFiles C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -238,6 +238,414 @@ lvgl_demos/fast:
 	$(MAKE) $(MAKESILENT) -f lvgl\CMakeFiles\lvgl_demos.dir\build.make lvgl/CMakeFiles/lvgl_demos.dir/build
 .PHONY : lvgl_demos/fast
 
+projeto/components/arc/arc_gen.obj: projeto/components/arc/arc_gen.c.obj
+.PHONY : projeto/components/arc/arc_gen.obj
+
+# target to build an object file
+projeto/components/arc/arc_gen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.obj
+.PHONY : projeto/components/arc/arc_gen.c.obj
+
+projeto/components/arc/arc_gen.i: projeto/components/arc/arc_gen.c.i
+.PHONY : projeto/components/arc/arc_gen.i
+
+# target to preprocess a source file
+projeto/components/arc/arc_gen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.i
+.PHONY : projeto/components/arc/arc_gen.c.i
+
+projeto/components/arc/arc_gen.s: projeto/components/arc/arc_gen.c.s
+.PHONY : projeto/components/arc/arc_gen.s
+
+# target to generate assembly for a file
+projeto/components/arc/arc_gen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.s
+.PHONY : projeto/components/arc/arc_gen.c.s
+
+projeto/components/arc/infinite_knob.obj: projeto/components/arc/infinite_knob.c.obj
+.PHONY : projeto/components/arc/infinite_knob.obj
+
+# target to build an object file
+projeto/components/arc/infinite_knob.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.obj
+.PHONY : projeto/components/arc/infinite_knob.c.obj
+
+projeto/components/arc/infinite_knob.i: projeto/components/arc/infinite_knob.c.i
+.PHONY : projeto/components/arc/infinite_knob.i
+
+# target to preprocess a source file
+projeto/components/arc/infinite_knob.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.i
+.PHONY : projeto/components/arc/infinite_knob.c.i
+
+projeto/components/arc/infinite_knob.s: projeto/components/arc/infinite_knob.c.s
+.PHONY : projeto/components/arc/infinite_knob.s
+
+# target to generate assembly for a file
+projeto/components/arc/infinite_knob.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.s
+.PHONY : projeto/components/arc/infinite_knob.c.s
+
+projeto/components/buttons/button_normal_gen.obj: projeto/components/buttons/button_normal_gen.c.obj
+.PHONY : projeto/components/buttons/button_normal_gen.obj
+
+# target to build an object file
+projeto/components/buttons/button_normal_gen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.obj
+.PHONY : projeto/components/buttons/button_normal_gen.c.obj
+
+projeto/components/buttons/button_normal_gen.i: projeto/components/buttons/button_normal_gen.c.i
+.PHONY : projeto/components/buttons/button_normal_gen.i
+
+# target to preprocess a source file
+projeto/components/buttons/button_normal_gen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.i
+.PHONY : projeto/components/buttons/button_normal_gen.c.i
+
+projeto/components/buttons/button_normal_gen.s: projeto/components/buttons/button_normal_gen.c.s
+.PHONY : projeto/components/buttons/button_normal_gen.s
+
+# target to generate assembly for a file
+projeto/components/buttons/button_normal_gen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.s
+.PHONY : projeto/components/buttons/button_normal_gen.c.s
+
+projeto/components/buttons/button_show_numpad_gen.obj: projeto/components/buttons/button_show_numpad_gen.c.obj
+.PHONY : projeto/components/buttons/button_show_numpad_gen.obj
+
+# target to build an object file
+projeto/components/buttons/button_show_numpad_gen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.obj
+.PHONY : projeto/components/buttons/button_show_numpad_gen.c.obj
+
+projeto/components/buttons/button_show_numpad_gen.i: projeto/components/buttons/button_show_numpad_gen.c.i
+.PHONY : projeto/components/buttons/button_show_numpad_gen.i
+
+# target to preprocess a source file
+projeto/components/buttons/button_show_numpad_gen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.i
+.PHONY : projeto/components/buttons/button_show_numpad_gen.c.i
+
+projeto/components/buttons/button_show_numpad_gen.s: projeto/components/buttons/button_show_numpad_gen.c.s
+.PHONY : projeto/components/buttons/button_show_numpad_gen.s
+
+# target to generate assembly for a file
+projeto/components/buttons/button_show_numpad_gen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.s
+.PHONY : projeto/components/buttons/button_show_numpad_gen.c.s
+
+projeto/components/list/list_gen.obj: projeto/components/list/list_gen.c.obj
+.PHONY : projeto/components/list/list_gen.obj
+
+# target to build an object file
+projeto/components/list/list_gen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/list/list_gen.c.obj
+.PHONY : projeto/components/list/list_gen.c.obj
+
+projeto/components/list/list_gen.i: projeto/components/list/list_gen.c.i
+.PHONY : projeto/components/list/list_gen.i
+
+# target to preprocess a source file
+projeto/components/list/list_gen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/list/list_gen.c.i
+.PHONY : projeto/components/list/list_gen.c.i
+
+projeto/components/list/list_gen.s: projeto/components/list/list_gen.c.s
+.PHONY : projeto/components/list/list_gen.s
+
+# target to generate assembly for a file
+projeto/components/list/list_gen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/list/list_gen.c.s
+.PHONY : projeto/components/list/list_gen.c.s
+
+projeto/components/visor/visor_gen.obj: projeto/components/visor/visor_gen.c.obj
+.PHONY : projeto/components/visor/visor_gen.obj
+
+# target to build an object file
+projeto/components/visor/visor_gen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.obj
+.PHONY : projeto/components/visor/visor_gen.c.obj
+
+projeto/components/visor/visor_gen.i: projeto/components/visor/visor_gen.c.i
+.PHONY : projeto/components/visor/visor_gen.i
+
+# target to preprocess a source file
+projeto/components/visor/visor_gen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.i
+.PHONY : projeto/components/visor/visor_gen.c.i
+
+projeto/components/visor/visor_gen.s: projeto/components/visor/visor_gen.c.s
+.PHONY : projeto/components/visor/visor_gen.s
+
+# target to generate assembly for a file
+projeto/components/visor/visor_gen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.s
+.PHONY : projeto/components/visor/visor_gen.c.s
+
+projeto/screens/screen_animations_gen.obj: projeto/screens/screen_animations_gen.c.obj
+.PHONY : projeto/screens/screen_animations_gen.obj
+
+# target to build an object file
+projeto/screens/screen_animations_gen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.obj
+.PHONY : projeto/screens/screen_animations_gen.c.obj
+
+projeto/screens/screen_animations_gen.i: projeto/screens/screen_animations_gen.c.i
+.PHONY : projeto/screens/screen_animations_gen.i
+
+# target to preprocess a source file
+projeto/screens/screen_animations_gen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.i
+.PHONY : projeto/screens/screen_animations_gen.c.i
+
+projeto/screens/screen_animations_gen.s: projeto/screens/screen_animations_gen.c.s
+.PHONY : projeto/screens/screen_animations_gen.s
+
+# target to generate assembly for a file
+projeto/screens/screen_animations_gen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.s
+.PHONY : projeto/screens/screen_animations_gen.c.s
+
+projeto/ui/images.obj: projeto/ui/images.c.obj
+.PHONY : projeto/ui/images.obj
+
+# target to build an object file
+projeto/ui/images.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/images.c.obj
+.PHONY : projeto/ui/images.c.obj
+
+projeto/ui/images.i: projeto/ui/images.c.i
+.PHONY : projeto/ui/images.i
+
+# target to preprocess a source file
+projeto/ui/images.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/images.c.i
+.PHONY : projeto/ui/images.c.i
+
+projeto/ui/images.s: projeto/ui/images.c.s
+.PHONY : projeto/ui/images.s
+
+# target to generate assembly for a file
+projeto/ui/images.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/images.c.s
+.PHONY : projeto/ui/images.c.s
+
+projeto/ui/screens.obj: projeto/ui/screens.c.obj
+.PHONY : projeto/ui/screens.obj
+
+# target to build an object file
+projeto/ui/screens.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/screens.c.obj
+.PHONY : projeto/ui/screens.c.obj
+
+projeto/ui/screens.i: projeto/ui/screens.c.i
+.PHONY : projeto/ui/screens.i
+
+# target to preprocess a source file
+projeto/ui/screens.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/screens.c.i
+.PHONY : projeto/ui/screens.c.i
+
+projeto/ui/screens.s: projeto/ui/screens.c.s
+.PHONY : projeto/ui/screens.s
+
+# target to generate assembly for a file
+projeto/ui/screens.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/screens.c.s
+.PHONY : projeto/ui/screens.c.s
+
+projeto/ui/styles.obj: projeto/ui/styles.c.obj
+.PHONY : projeto/ui/styles.obj
+
+# target to build an object file
+projeto/ui/styles.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/styles.c.obj
+.PHONY : projeto/ui/styles.c.obj
+
+projeto/ui/styles.i: projeto/ui/styles.c.i
+.PHONY : projeto/ui/styles.i
+
+# target to preprocess a source file
+projeto/ui/styles.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/styles.c.i
+.PHONY : projeto/ui/styles.c.i
+
+projeto/ui/styles.s: projeto/ui/styles.c.s
+.PHONY : projeto/ui/styles.s
+
+# target to generate assembly for a file
+projeto/ui/styles.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/styles.c.s
+.PHONY : projeto/ui/styles.c.s
+
+projeto/ui/ui.obj: projeto/ui/ui.c.obj
+.PHONY : projeto/ui/ui.obj
+
+# target to build an object file
+projeto/ui/ui.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui.c.obj
+.PHONY : projeto/ui/ui.c.obj
+
+projeto/ui/ui.i: projeto/ui/ui.c.i
+.PHONY : projeto/ui/ui.i
+
+# target to preprocess a source file
+projeto/ui/ui.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui.c.i
+.PHONY : projeto/ui/ui.c.i
+
+projeto/ui/ui.s: projeto/ui/ui.c.s
+.PHONY : projeto/ui/ui.s
+
+# target to generate assembly for a file
+projeto/ui/ui.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui.c.s
+.PHONY : projeto/ui/ui.c.s
+
+projeto/ui/ui_image_dew.obj: projeto/ui/ui_image_dew.c.obj
+.PHONY : projeto/ui/ui_image_dew.obj
+
+# target to build an object file
+projeto/ui/ui_image_dew.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.obj
+.PHONY : projeto/ui/ui_image_dew.c.obj
+
+projeto/ui/ui_image_dew.i: projeto/ui/ui_image_dew.c.i
+.PHONY : projeto/ui/ui_image_dew.i
+
+# target to preprocess a source file
+projeto/ui/ui_image_dew.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.i
+.PHONY : projeto/ui/ui_image_dew.c.i
+
+projeto/ui/ui_image_dew.s: projeto/ui/ui_image_dew.c.s
+.PHONY : projeto/ui/ui_image_dew.s
+
+# target to generate assembly for a file
+projeto/ui/ui_image_dew.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.s
+.PHONY : projeto/ui/ui_image_dew.c.s
+
+projeto/ui/ui_image_humidity.obj: projeto/ui/ui_image_humidity.c.obj
+.PHONY : projeto/ui/ui_image_humidity.obj
+
+# target to build an object file
+projeto/ui/ui_image_humidity.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.obj
+.PHONY : projeto/ui/ui_image_humidity.c.obj
+
+projeto/ui/ui_image_humidity.i: projeto/ui/ui_image_humidity.c.i
+.PHONY : projeto/ui/ui_image_humidity.i
+
+# target to preprocess a source file
+projeto/ui/ui_image_humidity.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.i
+.PHONY : projeto/ui/ui_image_humidity.c.i
+
+projeto/ui/ui_image_humidity.s: projeto/ui/ui_image_humidity.c.s
+.PHONY : projeto/ui/ui_image_humidity.s
+
+# target to generate assembly for a file
+projeto/ui/ui_image_humidity.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.s
+.PHONY : projeto/ui/ui_image_humidity.c.s
+
+projeto/ui/ui_image_hwit.obj: projeto/ui/ui_image_hwit.c.obj
+.PHONY : projeto/ui/ui_image_hwit.obj
+
+# target to build an object file
+projeto/ui/ui_image_hwit.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.obj
+.PHONY : projeto/ui/ui_image_hwit.c.obj
+
+projeto/ui/ui_image_hwit.i: projeto/ui/ui_image_hwit.c.i
+.PHONY : projeto/ui/ui_image_hwit.i
+
+# target to preprocess a source file
+projeto/ui/ui_image_hwit.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.i
+.PHONY : projeto/ui/ui_image_hwit.c.i
+
+projeto/ui/ui_image_hwit.s: projeto/ui/ui_image_hwit.c.s
+.PHONY : projeto/ui/ui_image_hwit.s
+
+# target to generate assembly for a file
+projeto/ui/ui_image_hwit.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.s
+.PHONY : projeto/ui/ui_image_hwit.c.s
+
+projeto/ui/ui_image_temperature.obj: projeto/ui/ui_image_temperature.c.obj
+.PHONY : projeto/ui/ui_image_temperature.obj
+
+# target to build an object file
+projeto/ui/ui_image_temperature.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.obj
+.PHONY : projeto/ui/ui_image_temperature.c.obj
+
+projeto/ui/ui_image_temperature.i: projeto/ui/ui_image_temperature.c.i
+.PHONY : projeto/ui/ui_image_temperature.i
+
+# target to preprocess a source file
+projeto/ui/ui_image_temperature.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.i
+.PHONY : projeto/ui/ui_image_temperature.c.i
+
+projeto/ui/ui_image_temperature.s: projeto/ui/ui_image_temperature.c.s
+.PHONY : projeto/ui/ui_image_temperature.s
+
+# target to generate assembly for a file
+projeto/ui/ui_image_temperature.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.s
+.PHONY : projeto/ui/ui_image_temperature.c.s
+
+projeto/ui_animations.obj: projeto/ui_animations.c.obj
+.PHONY : projeto/ui_animations.obj
+
+# target to build an object file
+projeto/ui_animations.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui_animations.c.obj
+.PHONY : projeto/ui_animations.c.obj
+
+projeto/ui_animations.i: projeto/ui_animations.c.i
+.PHONY : projeto/ui_animations.i
+
+# target to preprocess a source file
+projeto/ui_animations.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui_animations.c.i
+.PHONY : projeto/ui_animations.c.i
+
+projeto/ui_animations.s: projeto/ui_animations.c.s
+.PHONY : projeto/ui_animations.s
+
+# target to generate assembly for a file
+projeto/ui_animations.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui_animations.c.s
+.PHONY : projeto/ui_animations.c.s
+
+projeto/ui_animations_gen.obj: projeto/ui_animations_gen.c.obj
+.PHONY : projeto/ui_animations_gen.obj
+
+# target to build an object file
+projeto/ui_animations_gen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui_animations_gen.c.obj
+.PHONY : projeto/ui_animations_gen.c.obj
+
+projeto/ui_animations_gen.i: projeto/ui_animations_gen.c.i
+.PHONY : projeto/ui_animations_gen.i
+
+# target to preprocess a source file
+projeto/ui_animations_gen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui_animations_gen.c.i
+.PHONY : projeto/ui_animations_gen.c.i
+
+projeto/ui_animations_gen.s: projeto/ui_animations_gen.c.s
+.PHONY : projeto/ui_animations_gen.s
+
+# target to generate assembly for a file
+projeto/ui_animations_gen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/ui_animations_gen.c.s
+.PHONY : projeto/ui_animations_gen.c.s
+
 src/hal/hal.obj: src/hal/hal.c.obj
 .PHONY : src/hal/hal.obj
 
@@ -328,6 +736,57 @@ help:
 	@echo ... lvgl_examples
 	@echo ... lvgl_thorvg
 	@echo ... main
+	@echo ... projeto/components/arc/arc_gen.obj
+	@echo ... projeto/components/arc/arc_gen.i
+	@echo ... projeto/components/arc/arc_gen.s
+	@echo ... projeto/components/arc/infinite_knob.obj
+	@echo ... projeto/components/arc/infinite_knob.i
+	@echo ... projeto/components/arc/infinite_knob.s
+	@echo ... projeto/components/buttons/button_normal_gen.obj
+	@echo ... projeto/components/buttons/button_normal_gen.i
+	@echo ... projeto/components/buttons/button_normal_gen.s
+	@echo ... projeto/components/buttons/button_show_numpad_gen.obj
+	@echo ... projeto/components/buttons/button_show_numpad_gen.i
+	@echo ... projeto/components/buttons/button_show_numpad_gen.s
+	@echo ... projeto/components/list/list_gen.obj
+	@echo ... projeto/components/list/list_gen.i
+	@echo ... projeto/components/list/list_gen.s
+	@echo ... projeto/components/visor/visor_gen.obj
+	@echo ... projeto/components/visor/visor_gen.i
+	@echo ... projeto/components/visor/visor_gen.s
+	@echo ... projeto/screens/screen_animations_gen.obj
+	@echo ... projeto/screens/screen_animations_gen.i
+	@echo ... projeto/screens/screen_animations_gen.s
+	@echo ... projeto/ui/images.obj
+	@echo ... projeto/ui/images.i
+	@echo ... projeto/ui/images.s
+	@echo ... projeto/ui/screens.obj
+	@echo ... projeto/ui/screens.i
+	@echo ... projeto/ui/screens.s
+	@echo ... projeto/ui/styles.obj
+	@echo ... projeto/ui/styles.i
+	@echo ... projeto/ui/styles.s
+	@echo ... projeto/ui/ui.obj
+	@echo ... projeto/ui/ui.i
+	@echo ... projeto/ui/ui.s
+	@echo ... projeto/ui/ui_image_dew.obj
+	@echo ... projeto/ui/ui_image_dew.i
+	@echo ... projeto/ui/ui_image_dew.s
+	@echo ... projeto/ui/ui_image_humidity.obj
+	@echo ... projeto/ui/ui_image_humidity.i
+	@echo ... projeto/ui/ui_image_humidity.s
+	@echo ... projeto/ui/ui_image_hwit.obj
+	@echo ... projeto/ui/ui_image_hwit.i
+	@echo ... projeto/ui/ui_image_hwit.s
+	@echo ... projeto/ui/ui_image_temperature.obj
+	@echo ... projeto/ui/ui_image_temperature.i
+	@echo ... projeto/ui/ui_image_temperature.s
+	@echo ... projeto/ui_animations.obj
+	@echo ... projeto/ui_animations.i
+	@echo ... projeto/ui_animations.s
+	@echo ... projeto/ui_animations_gen.obj
+	@echo ... projeto/ui_animations_gen.i
+	@echo ... projeto/ui_animations_gen.s
 	@echo ... src/hal/hal.obj
 	@echo ... src/hal/hal.i
 	@echo ... src/hal/hal.s

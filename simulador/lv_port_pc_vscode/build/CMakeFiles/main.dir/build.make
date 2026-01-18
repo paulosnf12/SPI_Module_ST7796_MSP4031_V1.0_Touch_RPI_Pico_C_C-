@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode
+CMAKE_SOURCE_DIR = C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build
+CMAKE_BINARY_DIR = C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/main.dir/depend.make
@@ -73,80 +73,369 @@ CMakeFiles/main.dir/codegen:
 
 CMakeFiles/main.dir/src/mouse_cursor_icon.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/mouse_cursor_icon.c.obj: CMakeFiles/main.dir/includes_C.rsp
-CMakeFiles/main.dir/src/mouse_cursor_icon.c.obj: C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/src/mouse_cursor_icon.c
+CMakeFiles/main.dir/src/mouse_cursor_icon.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/src/mouse_cursor_icon.c
 CMakeFiles/main.dir/src/mouse_cursor_icon.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/src/mouse_cursor_icon.c.obj"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/mouse_cursor_icon.c.obj -MF CMakeFiles\main.dir\src\mouse_cursor_icon.c.obj.d -o CMakeFiles\main.dir\src\mouse_cursor_icon.c.obj -c C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\src\mouse_cursor_icon.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/src/mouse_cursor_icon.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/mouse_cursor_icon.c.obj -MF CMakeFiles\main.dir\src\mouse_cursor_icon.c.obj.d -o CMakeFiles\main.dir\src\mouse_cursor_icon.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\src\mouse_cursor_icon.c
 
 CMakeFiles/main.dir/src/mouse_cursor_icon.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/src/mouse_cursor_icon.c.i"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\src\mouse_cursor_icon.c > CMakeFiles\main.dir\src\mouse_cursor_icon.c.i
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\src\mouse_cursor_icon.c > CMakeFiles\main.dir\src\mouse_cursor_icon.c.i
 
 CMakeFiles/main.dir/src/mouse_cursor_icon.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/mouse_cursor_icon.c.s"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\src\mouse_cursor_icon.c -o CMakeFiles\main.dir\src\mouse_cursor_icon.c.s
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\src\mouse_cursor_icon.c -o CMakeFiles\main.dir\src\mouse_cursor_icon.c.s
 
 CMakeFiles/main.dir/src/hal/hal.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/hal/hal.c.obj: CMakeFiles/main.dir/includes_C.rsp
-CMakeFiles/main.dir/src/hal/hal.c.obj: C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/src/hal/hal.c
+CMakeFiles/main.dir/src/hal/hal.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/src/hal/hal.c
 CMakeFiles/main.dir/src/hal/hal.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/main.dir/src/hal/hal.c.obj"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/hal/hal.c.obj -MF CMakeFiles\main.dir\src\hal\hal.c.obj.d -o CMakeFiles\main.dir\src\hal\hal.c.obj -c C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\src\hal\hal.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/main.dir/src/hal/hal.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/hal/hal.c.obj -MF CMakeFiles\main.dir\src\hal\hal.c.obj.d -o CMakeFiles\main.dir\src\hal\hal.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\src\hal\hal.c
 
 CMakeFiles/main.dir/src/hal/hal.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/src/hal/hal.c.i"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\src\hal\hal.c > CMakeFiles\main.dir\src\hal\hal.c.i
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\src\hal\hal.c > CMakeFiles\main.dir\src\hal\hal.c.i
 
 CMakeFiles/main.dir/src/hal/hal.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/hal/hal.c.s"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\src\hal\hal.c -o CMakeFiles\main.dir\src\hal\hal.c.s
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\src\hal\hal.c -o CMakeFiles\main.dir\src\hal\hal.c.s
 
 CMakeFiles/main.dir/src/main.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/main.c.obj: CMakeFiles/main.dir/includes_C.rsp
-CMakeFiles/main.dir/src/main.c.obj: C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/src/main.c
+CMakeFiles/main.dir/src/main.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/src/main.c
 CMakeFiles/main.dir/src/main.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/main.dir/src/main.c.obj"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/main.c.obj -MF CMakeFiles\main.dir\src\main.c.obj.d -o CMakeFiles\main.dir\src\main.c.obj -c C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\src\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/main.dir/src/main.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/main.c.obj -MF CMakeFiles\main.dir\src\main.c.obj.d -o CMakeFiles\main.dir\src\main.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\src\main.c
 
 CMakeFiles/main.dir/src/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/src/main.c.i"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\src\main.c > CMakeFiles\main.dir\src\main.c.i
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\src\main.c > CMakeFiles\main.dir\src\main.c.i
 
 CMakeFiles/main.dir/src/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/main.c.s"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\src\main.c -o CMakeFiles\main.dir\src\main.c.s
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\src\main.c -o CMakeFiles\main.dir\src\main.c.s
+
+CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/arc/arc_gen.c
+CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.obj -MF CMakeFiles\main.dir\projeto\components\arc\arc_gen.c.obj.d -o CMakeFiles\main.dir\projeto\components\arc\arc_gen.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\arc\arc_gen.c
+
+CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\arc\arc_gen.c > CMakeFiles\main.dir\projeto\components\arc\arc_gen.c.i
+
+CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\arc\arc_gen.c -o CMakeFiles\main.dir\projeto\components\arc\arc_gen.c.s
+
+CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/arc/infinite_knob.c
+CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.obj -MF CMakeFiles\main.dir\projeto\components\arc\infinite_knob.c.obj.d -o CMakeFiles\main.dir\projeto\components\arc\infinite_knob.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\arc\infinite_knob.c
+
+CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\arc\infinite_knob.c > CMakeFiles\main.dir\projeto\components\arc\infinite_knob.c.i
+
+CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\arc\infinite_knob.c -o CMakeFiles\main.dir\projeto\components\arc\infinite_knob.c.s
+
+CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/button_normal_gen.c
+CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.obj -MF CMakeFiles\main.dir\projeto\components\buttons\button_normal_gen.c.obj.d -o CMakeFiles\main.dir\projeto\components\buttons\button_normal_gen.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\buttons\button_normal_gen.c
+
+CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\buttons\button_normal_gen.c > CMakeFiles\main.dir\projeto\components\buttons\button_normal_gen.c.i
+
+CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\buttons\button_normal_gen.c -o CMakeFiles\main.dir\projeto\components\buttons\button_normal_gen.c.s
+
+CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/button_show_numpad_gen.c
+CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.obj -MF CMakeFiles\main.dir\projeto\components\buttons\button_show_numpad_gen.c.obj.d -o CMakeFiles\main.dir\projeto\components\buttons\button_show_numpad_gen.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\buttons\button_show_numpad_gen.c
+
+CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\buttons\button_show_numpad_gen.c > CMakeFiles\main.dir\projeto\components\buttons\button_show_numpad_gen.c.i
+
+CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\buttons\button_show_numpad_gen.c -o CMakeFiles\main.dir\projeto\components\buttons\button_show_numpad_gen.c.s
+
+CMakeFiles/main.dir/projeto/components/list/list_gen.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/components/list/list_gen.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/components/list/list_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/list/list_gen.c
+CMakeFiles/main.dir/projeto/components/list/list_gen.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/main.dir/projeto/components/list/list_gen.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/components/list/list_gen.c.obj -MF CMakeFiles\main.dir\projeto\components\list\list_gen.c.obj.d -o CMakeFiles\main.dir\projeto\components\list\list_gen.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\list\list_gen.c
+
+CMakeFiles/main.dir/projeto/components/list/list_gen.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/components/list/list_gen.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\list\list_gen.c > CMakeFiles\main.dir\projeto\components\list\list_gen.c.i
+
+CMakeFiles/main.dir/projeto/components/list/list_gen.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/components/list/list_gen.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\list\list_gen.c -o CMakeFiles\main.dir\projeto\components\list\list_gen.c.s
+
+CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/visor/visor_gen.c
+CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.obj -MF CMakeFiles\main.dir\projeto\components\visor\visor_gen.c.obj.d -o CMakeFiles\main.dir\projeto\components\visor\visor_gen.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\visor\visor_gen.c
+
+CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\visor\visor_gen.c > CMakeFiles\main.dir\projeto\components\visor\visor_gen.c.i
+
+CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\components\visor\visor_gen.c -o CMakeFiles\main.dir\projeto\components\visor\visor_gen.c.s
+
+CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_animations_gen.c
+CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.obj -MF CMakeFiles\main.dir\projeto\screens\screen_animations_gen.c.obj.d -o CMakeFiles\main.dir\projeto\screens\screen_animations_gen.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\screens\screen_animations_gen.c
+
+CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\screens\screen_animations_gen.c > CMakeFiles\main.dir\projeto\screens\screen_animations_gen.c.i
+
+CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\screens\screen_animations_gen.c -o CMakeFiles\main.dir\projeto\screens\screen_animations_gen.c.s
+
+CMakeFiles/main.dir/projeto/ui/images.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/ui/images.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/ui/images.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/images.c
+CMakeFiles/main.dir/projeto/ui/images.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/main.dir/projeto/ui/images.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/ui/images.c.obj -MF CMakeFiles\main.dir\projeto\ui\images.c.obj.d -o CMakeFiles\main.dir\projeto\ui\images.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\images.c
+
+CMakeFiles/main.dir/projeto/ui/images.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/ui/images.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\images.c > CMakeFiles\main.dir\projeto\ui\images.c.i
+
+CMakeFiles/main.dir/projeto/ui/images.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/ui/images.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\images.c -o CMakeFiles\main.dir\projeto\ui\images.c.s
+
+CMakeFiles/main.dir/projeto/ui/screens.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/ui/screens.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/ui/screens.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/screens.c
+CMakeFiles/main.dir/projeto/ui/screens.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/main.dir/projeto/ui/screens.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/ui/screens.c.obj -MF CMakeFiles\main.dir\projeto\ui\screens.c.obj.d -o CMakeFiles\main.dir\projeto\ui\screens.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\screens.c
+
+CMakeFiles/main.dir/projeto/ui/screens.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/ui/screens.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\screens.c > CMakeFiles\main.dir\projeto\ui\screens.c.i
+
+CMakeFiles/main.dir/projeto/ui/screens.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/ui/screens.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\screens.c -o CMakeFiles\main.dir\projeto\ui\screens.c.s
+
+CMakeFiles/main.dir/projeto/ui/styles.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/ui/styles.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/ui/styles.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/styles.c
+CMakeFiles/main.dir/projeto/ui/styles.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/main.dir/projeto/ui/styles.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/ui/styles.c.obj -MF CMakeFiles\main.dir\projeto\ui\styles.c.obj.d -o CMakeFiles\main.dir\projeto\ui\styles.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\styles.c
+
+CMakeFiles/main.dir/projeto/ui/styles.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/ui/styles.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\styles.c > CMakeFiles\main.dir\projeto\ui\styles.c.i
+
+CMakeFiles/main.dir/projeto/ui/styles.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/ui/styles.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\styles.c -o CMakeFiles\main.dir\projeto\ui\styles.c.s
+
+CMakeFiles/main.dir/projeto/ui/ui.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/ui/ui.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/ui/ui.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/ui.c
+CMakeFiles/main.dir/projeto/ui/ui.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/main.dir/projeto/ui/ui.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/ui/ui.c.obj -MF CMakeFiles\main.dir\projeto\ui\ui.c.obj.d -o CMakeFiles\main.dir\projeto\ui\ui.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui.c
+
+CMakeFiles/main.dir/projeto/ui/ui.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/ui/ui.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui.c > CMakeFiles\main.dir\projeto\ui\ui.c.i
+
+CMakeFiles/main.dir/projeto/ui/ui.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/ui/ui.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui.c -o CMakeFiles\main.dir\projeto\ui\ui.c.s
+
+CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/ui_image_dew.c
+CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.obj -MF CMakeFiles\main.dir\projeto\ui\ui_image_dew.c.obj.d -o CMakeFiles\main.dir\projeto\ui\ui_image_dew.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui_image_dew.c
+
+CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui_image_dew.c > CMakeFiles\main.dir\projeto\ui\ui_image_dew.c.i
+
+CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui_image_dew.c -o CMakeFiles\main.dir\projeto\ui\ui_image_dew.c.s
+
+CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/ui_image_humidity.c
+CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.obj -MF CMakeFiles\main.dir\projeto\ui\ui_image_humidity.c.obj.d -o CMakeFiles\main.dir\projeto\ui\ui_image_humidity.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui_image_humidity.c
+
+CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui_image_humidity.c > CMakeFiles\main.dir\projeto\ui\ui_image_humidity.c.i
+
+CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui_image_humidity.c -o CMakeFiles\main.dir\projeto\ui\ui_image_humidity.c.s
+
+CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/ui_image_hwit.c
+CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.obj -MF CMakeFiles\main.dir\projeto\ui\ui_image_hwit.c.obj.d -o CMakeFiles\main.dir\projeto\ui\ui_image_hwit.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui_image_hwit.c
+
+CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui_image_hwit.c > CMakeFiles\main.dir\projeto\ui\ui_image_hwit.c.i
+
+CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui_image_hwit.c -o CMakeFiles\main.dir\projeto\ui\ui_image_hwit.c.s
+
+CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/ui_image_temperature.c
+CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.obj -MF CMakeFiles\main.dir\projeto\ui\ui_image_temperature.c.obj.d -o CMakeFiles\main.dir\projeto\ui\ui_image_temperature.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui_image_temperature.c
+
+CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui_image_temperature.c > CMakeFiles\main.dir\projeto\ui\ui_image_temperature.c.i
+
+CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui\ui_image_temperature.c -o CMakeFiles\main.dir\projeto\ui\ui_image_temperature.c.s
+
+CMakeFiles/main.dir/projeto/ui_animations.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/ui_animations.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/ui_animations.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui_animations.c
+CMakeFiles/main.dir/projeto/ui_animations.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/main.dir/projeto/ui_animations.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/ui_animations.c.obj -MF CMakeFiles\main.dir\projeto\ui_animations.c.obj.d -o CMakeFiles\main.dir\projeto\ui_animations.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui_animations.c
+
+CMakeFiles/main.dir/projeto/ui_animations.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/ui_animations.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui_animations.c > CMakeFiles\main.dir\projeto\ui_animations.c.i
+
+CMakeFiles/main.dir/projeto/ui_animations.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/ui_animations.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui_animations.c -o CMakeFiles\main.dir\projeto\ui_animations.c.s
+
+CMakeFiles/main.dir/projeto/ui_animations_gen.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/projeto/ui_animations_gen.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/projeto/ui_animations_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui_animations_gen.c
+CMakeFiles/main.dir/projeto/ui_animations_gen.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/main.dir/projeto/ui_animations_gen.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/projeto/ui_animations_gen.c.obj -MF CMakeFiles\main.dir\projeto\ui_animations_gen.c.obj.d -o CMakeFiles\main.dir\projeto\ui_animations_gen.c.obj -c C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui_animations_gen.c
+
+CMakeFiles/main.dir/projeto/ui_animations_gen.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/projeto/ui_animations_gen.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui_animations_gen.c > CMakeFiles\main.dir\projeto\ui_animations_gen.c.i
+
+CMakeFiles/main.dir/projeto/ui_animations_gen.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/projeto/ui_animations_gen.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\projeto\ui_animations_gen.c -o CMakeFiles\main.dir\projeto\ui_animations_gen.c.s
 
 # Object files for target main
 main_OBJECTS = \
 "CMakeFiles/main.dir/src/mouse_cursor_icon.c.obj" \
 "CMakeFiles/main.dir/src/hal/hal.c.obj" \
-"CMakeFiles/main.dir/src/main.c.obj"
+"CMakeFiles/main.dir/src/main.c.obj" \
+"CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.obj" \
+"CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.obj" \
+"CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.obj" \
+"CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.obj" \
+"CMakeFiles/main.dir/projeto/components/list/list_gen.c.obj" \
+"CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.obj" \
+"CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.obj" \
+"CMakeFiles/main.dir/projeto/ui/images.c.obj" \
+"CMakeFiles/main.dir/projeto/ui/screens.c.obj" \
+"CMakeFiles/main.dir/projeto/ui/styles.c.obj" \
+"CMakeFiles/main.dir/projeto/ui/ui.c.obj" \
+"CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.obj" \
+"CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.obj" \
+"CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.obj" \
+"CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.obj" \
+"CMakeFiles/main.dir/projeto/ui_animations.c.obj" \
+"CMakeFiles/main.dir/projeto/ui_animations_gen.c.obj"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/src/mouse_cursor_icon.c.obj
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/src/hal/hal.c.obj
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/src/main.c.obj
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/build.make
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl.a
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl_examples.a
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl_demos.a
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl_thorvg.a
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: C:/msys64/mingw64/lib/libSDL2main.a
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: C:/msys64/mingw64/lib/libSDL2.dll.a
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl.a
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl_examples.a
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl_demos.a
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl_thorvg.a
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/linkLibs.rsp
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/objects1.rsp
-C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\bin\main.exe"
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/src/mouse_cursor_icon.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/src/hal/hal.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/src/main.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/components/arc/arc_gen.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/components/list/list_gen.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/ui/images.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/ui/screens.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/ui/styles.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/ui/ui.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/ui/ui_image_dew.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/ui/ui_image_humidity.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/ui/ui_image_hwit.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/ui/ui_image_temperature.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/ui_animations.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/projeto/ui_animations_gen.c.obj
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/build.make
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl.a
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl_thorvg.a
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: C:/msys64/mingw64/lib/libSDL2main.a
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: C:/msys64/mingw64/lib/libSDL2.dll.a
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl_examples.a
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl_demos.a
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl.a
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl_thorvg.a
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl_examples.a
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: lvgl/lib/liblvgl_demos.a
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/linkLibs.rsp
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/objects1.rsp
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe: CMakeFiles/main.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\bin\main.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\main.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/main.dir/build: C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/bin/main.exe
+CMakeFiles/main.dir/build: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/bin/main.exe
 .PHONY : CMakeFiles/main.dir/build
 
 CMakeFiles/main.dir/clean:
@@ -154,6 +443,6 @@ CMakeFiles/main.dir/clean:
 .PHONY : CMakeFiles/main.dir/clean
 
 CMakeFiles/main.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\build\CMakeFiles\main.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\build\CMakeFiles\main.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/main.dir/depend
 

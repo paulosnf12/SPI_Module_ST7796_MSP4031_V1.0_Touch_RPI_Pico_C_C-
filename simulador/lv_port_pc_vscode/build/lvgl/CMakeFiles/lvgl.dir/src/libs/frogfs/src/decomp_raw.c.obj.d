@@ -1,7 +1,7 @@
 lvgl/CMakeFiles/lvgl.dir/src/libs/frogfs/src/decomp_raw.c.obj: \
- C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\frogfs\src\decomp_raw.c \
- C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
- C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lv_conf.h \
+ C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\lvgl\src\libs\frogfs\src\decomp_raw.c \
+ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lv_conf.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
  C:/msys64/mingw64/include/stddef.h C:/msys64/mingw64/include/crtdefs.h \
  C:/msys64/mingw64/include/corecrt.h C:/msys64/mingw64/include/_mingw.h \
@@ -11,10 +11,10 @@ lvgl/CMakeFiles/lvgl.dir/src/libs/frogfs/src/decomp_raw.c.obj: \
  C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
  C:/msys64/mingw64/include/stdint.h \
- C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/stdlib/lv_string.h \
- C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
- C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
- C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_string.h \
+ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h \
  C:/msys64/mingw64/include/inttypes.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
@@ -23,10 +23,10 @@ lvgl/CMakeFiles/lvgl.dir/src/libs/frogfs/src/decomp_raw.c.obj: \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
- C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_fs.h \
- C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
- C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\frogfs\src\frogfs_priv.h \
- C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/libs/frogfs/include/frogfs/frogfs_types.h \
- C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
- C:/Users/saopa/Desktop/lvgl/lv_port_pc_vscode/lvgl/src/libs/frogfs/include/frogfs/frogfs.h \
- C:\Users\saopa\Desktop\lvgl\lv_port_pc_vscode\lvgl\src\libs\frogfs\src\frogfs_format.h
+ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_fs.h \
+ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+ C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\lvgl\src\libs\frogfs\src\frogfs_priv.h \
+ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/frogfs/include/frogfs/frogfs_types.h \
+ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/frogfs/include/frogfs/frogfs.h \
+ C:\Users\saopa\Desktop\SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-\simulador\lv_port_pc_vscode\lvgl\src\libs\frogfs\src\frogfs_format.h

@@ -187,8 +187,16 @@ static void free_timeline_event_cb(lv_event_t * e)
 {
     lv_anim_timeline_t ** at_array = lv_event_get_user_data(e);
 
-    for (uint32_t i = 0; i < _SCREEN_ANIMATIONS_TIMELINE_CNT; i++)
-        lv_anim_timeline_delete(at_array[i]);
+    // 1. Proteção: Se o array principal for nulo, sai fora.
+    if (at_array == NULL) return;
+
+    for (uint32_t i = 0; i < _SCREEN_ANIMATIONS_TIMELINE_CNT; i++) {
+        // 2. Proteção: Só tenta deletar se o ponteiro for válido (não NULL)
+        if (at_array[i] != NULL) {
+            lv_anim_timeline_delete(at_array[i]);
+            at_array[i] = NULL; // Boa prática: anular após deletar
+        }
+    }
 
     lv_free(at_array);
 }
