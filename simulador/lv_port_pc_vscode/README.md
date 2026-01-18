@@ -4,10 +4,38 @@
 
 https://github.com/user-attachments/assets/0b0dc298-816e-4609-878a-2108ddbbb5a9
 
+Comandos
+
+git clone --recurse-submodules https://github.com/lvgl/lv_port_pc_vscode
+
+cd lv_port_pc_vscode
+
+git submodule update --init --recursive lvgl
+
+cd FreeRTOS
+
+git fetch origin
+
+git checkout origin/main
+
+baixar e instalar https://www.msys2.org/
+
+abrir MSYS2 MinGW
+
+pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-SDL2 mingw-w64-x86_64-make mingw-w64-x86_64-cmake
+
+pacman -S mingw-w64-x86_64-gdb
+
+// APAGAR A PASta BUILD, RODAR O COMANDO ABAIXO
+
+cmake -G "MinGW Makefiles" -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++ -B build
+
+// CASO HAJA MUDANÇAS NA MAIN< USAR ABAIXO
+
+cmake --build build
 
 
-
-
+-----
 
 
 # Início de testes com simulador lvgl
