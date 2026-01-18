@@ -4,7 +4,7 @@
 
 https://github.com/user-attachments/assets/0b0dc298-816e-4609-878a-2108ddbbb5a9
 
-Como rodar:
+## Como rodar:
 
 // APAGAR A PAStA BUILD, RODAR O COMANDO ABAIXO
 
@@ -14,7 +14,7 @@ cmake -G "MinGW Makefiles" -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++ -B bu
 
 cmake --build build
 
-Comandos baixar do zero:
+## Comandos baixar do zero:
 
 git clone --recurse-submodules https://github.com/lvgl/lv_port_pc_vscode
 
@@ -37,10 +37,7 @@ pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-SDL2 mingw-w64-x86_64-make mingw
 pacman -S mingw-w64-x86_64-gdb
 
 
-
-
------
-
+------------------------------------------------------------------------------------------------------------------------
 
 # Início de testes com simulador lvgl
 
