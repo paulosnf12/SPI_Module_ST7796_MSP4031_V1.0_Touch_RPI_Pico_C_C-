@@ -12,7 +12,7 @@
 /**********************
  * DEFINES
  **********************/
-#define SCALE_RADIUS        200
+#define SCALE_RADIUS        150
 
 #define DBM_MIN            (-17.0f)
 #define DBM_MAX            (  3.0f)
@@ -34,6 +34,7 @@
 #define COL_BG     0x1E1E2E
 #define COL_WHITE  0xFFFFFF
 #define COL_GRAY   0x2A2A3A
+#define COL_LIGHT_GRAY 0xAAAAAA
 #define COL_ACCENT 0x1E90FF
 
 /**********************
@@ -81,7 +82,7 @@ lv_obj_t * visor_create(lv_obj_t * parent)
     /* Escala */
     scale_obj = lv_scale_create(root);
     lv_obj_set_size(scale_obj, SCALE_RADIUS * 2, SCALE_RADIUS * 2);
-    lv_obj_align(scale_obj, LV_ALIGN_TOP_MID, 0, VISOR_H - SCALE_RADIUS + 50);
+    lv_obj_align(scale_obj, LV_ALIGN_TOP_MID, 0, 10);
 
     lv_scale_set_mode(scale_obj, LV_SCALE_MODE_ROUND_INNER);
     lv_scale_set_range(scale_obj, (int)DBM_MIN, (int)DBM_MAX);
@@ -90,7 +91,7 @@ lv_obj_t * visor_create(lv_obj_t * parent)
     lv_scale_set_total_tick_count(scale_obj, 21);
     lv_scale_set_major_tick_every(scale_obj, 5);
 
-    lv_obj_set_style_line_color(scale_obj, lv_color_hex(COL_GRAY), LV_PART_ITEMS);
+    lv_obj_set_style_line_color(scale_obj, lv_color_hex(COL_LIGHT_GRAY), LV_PART_ITEMS);
     lv_obj_set_style_line_color(scale_obj, lv_color_hex(COL_WHITE), LV_PART_INDICATOR);
     lv_obj_set_style_length(scale_obj, 14, LV_PART_INDICATOR);
     lv_obj_set_style_length(scale_obj, 7,  LV_PART_ITEMS);
@@ -112,10 +113,10 @@ lv_obj_t * visor_create(lv_obj_t * parent)
 
     /* dBm topo */
     label_dbm = lv_label_create(root);
-    lv_obj_set_style_text_font(label_dbm, &lv_font_montserrat_18, 0);
-    lv_obj_set_style_text_color(label_dbm, lv_color_hex(COL_GRAY), 0);
+    lv_obj_set_style_text_font(label_dbm, &lv_font_montserrat_12, 0);
+    lv_obj_set_style_text_color(label_dbm, lv_color_hex(COL_WHITE), 0);
     lv_label_set_text(label_dbm, "dBm");
-    lv_obj_align(label_dbm, LV_ALIGN_TOP_MID, 0, 45);
+    lv_obj_align(label_dbm, LV_ALIGN_TOP_MID, 0, 53);
 
     /* Valor principal */
     label_value = lv_label_create(root);
