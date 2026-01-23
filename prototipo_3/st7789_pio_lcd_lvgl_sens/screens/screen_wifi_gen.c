@@ -14,6 +14,9 @@
 
 #include "lvgl.h"
 
+#include "../wifi_handler.h" 
+#include <string.h>
+
 /*********************
  * STATIC VARIABLES
  *********************/
@@ -98,13 +101,27 @@ static void connect_button_event_cb(lv_event_t * e)
     if (lv_event_get_code(e) != LV_EVENT_CLICKED)
         return;
 
-    /* Recupero os dados digitados */
-    const char * ssid = lv_textarea_get_text(ta_ssid);
-    const char * pass = lv_textarea_get_text(ta_pass);
+    // Você precisa criar essas variáveis antes de usá-las no strncpy
+    const char * ssid_txt = lv_textarea_get_text(ta_ssid);
+    const char * pass_txt = lv_textarea_get_text(ta_pass);
+    /* ------------------------------------------------- */
+
+    /* Validação simples */
+    if (strlen(ssid_txt) == 0) {
+        LV_LOG_USER("SSID vazio!");
+        return;
+    }
+
+    // Preenche as variáveis globais
+    strncpy(wifi_ssid, ssid_txt, sizeof(wifi_ssid) - 1);
+    strncpy(wifi_pass, pass_txt, sizeof(wifi_pass) - 1);
+    
+    // Avisa o Core 1
+    wifi_connect_requested = true;
 
     /* Aqui entra a lógica real de conexão Wi-Fi */
-    (void)ssid;
-    (void)pass;
+    (void)ssid_txt;
+    (void)pass_txt;
 
     /* Fecho o teclado caso esteja aberto */
     if (keyboard)
