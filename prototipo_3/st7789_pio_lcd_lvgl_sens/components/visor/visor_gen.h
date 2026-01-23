@@ -30,17 +30,9 @@ extern "C" {
 /* Altura ocupada pelo visor (metade superior) */
 #define VISOR_HEIGHT  160
 
-/* Limites da escala (públicos para integração) */
+/* Limites da escala */
 #define VISOR_DBM_MIN  (-17.0f)
 #define VISOR_DBM_MAX  (  3.0f)
-
-/**********************
- *      TYPEDEFS
- **********************/
-typedef enum {
-    VISOR_TIMELINE_DISPLAY_FADE_IN = 0,
-    _VISOR_TIMELINE_CNT
-} visor_timeline_t;
 
 /**********************
  * GLOBAL PROTOTYPES
@@ -60,16 +52,17 @@ void visor_manual_enter(float mw);
 /* Leitura do valor atual */
 float visor_get_current_value(void);
 
-/* Timeline (animações LVGL) */
-lv_anim_timeline_t * visor_get_timeline(lv_obj_t * obj,
-                                        visor_timeline_t timeline_id);
-
-/**********************
- *      MACROS
- **********************/
-
 #ifdef __cplusplus
 } /* extern "C" */
 #endif
 
 #endif /* VISOR_GEN_H */
+/**
+ * @file visor_gen.c
+ * @brief Implementação do visor de potência óptica
+ *
+ * Este componente gráfico implementa um visor de potência
+ * óptica medido em dBm e mW. O visor exibe o valor através
+ * de uma escala semicircular com ponteiro, além de labels
+ * que indicam o valor numérico e a unidade correspondente.
+ */

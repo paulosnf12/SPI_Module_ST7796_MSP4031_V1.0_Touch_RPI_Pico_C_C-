@@ -42,7 +42,16 @@ components/buttons/button_show_numpad_gen.c
 components/list/list_gen.c
 components/arc/arc_gen.c
 components/visor/visor_gen.c
-components/arc/infinite_knob.c)
+components/arc/infinite_knob.c
+components/buttons/home_button.c
+components/menu/time_gen.c
+
+components/buttons/button_back_gen.c
+screens/screen_menu_gen.c
+screens/screen_wifi_gen.c
+images/logo_hwit.c
+
+)
 
 pico_generate_pio_header(st7789_pio_lcd_lvgl_sens1 ${CMAKE_CURRENT_LIST_DIR}/st7789_lcd.pio)
 

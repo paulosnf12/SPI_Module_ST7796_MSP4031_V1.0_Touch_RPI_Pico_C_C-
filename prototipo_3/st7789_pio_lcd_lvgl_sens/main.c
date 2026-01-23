@@ -21,6 +21,7 @@
 
 #include "ft6336u.h"
 
+
 #define BUTTON_A_PIN 5 // Button A pin from the schematic
 #define BUTTON_B_PIN 6 // Button B pin from the schematic
 #define DEBOUNCE_DELAY_MS 20 // Debounce delay in milliseconds
@@ -277,6 +278,7 @@ int main() {
 
         lv_task_handler(); // Handle LVGL tasks
         sleep_ms(10); // Sleep to allow other tasks to run
+
     }
 
     // Cleanup
