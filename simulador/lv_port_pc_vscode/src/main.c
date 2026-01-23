@@ -78,7 +78,7 @@ int main(int argc, char **argv)
   /* - etc. */
   //lv_demo_widgets();
 
-  lv_obj_t * obj_tela = screen_animations_creater();
+  lv_obj_t * obj_tela = screen_animations_create();
   lv_screen_load(obj_tela);
 
 /*

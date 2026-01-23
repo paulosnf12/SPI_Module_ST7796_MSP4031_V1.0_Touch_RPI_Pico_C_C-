@@ -49,7 +49,7 @@ static void hide_list_ready_cb(lv_anim_t * a);
  * @brief Cria a tela principal, seus componentes e associa os eventos.
  * @return lv_obj_t* Objeto raiz da tela.
  */
-lv_obj_t * screen_animations_creater(void)
+lv_obj_t * screen_animations_create(void)
 {
     LV_TRACE_OBJ_CREATE("begin");
 
@@ -78,7 +78,7 @@ lv_obj_t * screen_animations_creater(void)
     lv_obj_t * button_list = list_create(lv_layer_top());
     lv_obj_set_name(button_list, "button_list");
     lv_obj_set_size(button_list, 220, 300);
-
+    
     /* Posiciona inicialmente FORA da tela à direita */
     // X=480 (largura total) garante que a lista esteja fora da vista, Y=10.
     lv_obj_set_pos(button_list, 480, 10);
@@ -94,7 +94,7 @@ lv_obj_t * screen_animations_creater(void)
     lv_obj_set_name(visor, "visor");
     lv_obj_set_align(visor, LV_ALIGN_TOP_MID);
     lv_obj_set_pos(visor, 0, 10);
-    lv_obj_set_size(visor, 360, 140);
+    lv_obj_set_size(visor, 360, 300);
 
     /***************************
      * ARC
@@ -125,22 +125,14 @@ lv_obj_t * screen_animations_creater(void)
     /***************************
      * TIMELINE
      ***************************/
-    /* TIMELINE ALOCATION */
-// 1. Calcular o tamanho TOTAL em bytes (importante!)
-size_t total_bytes = sizeof(lv_anim_timeline_t *) * _SCREEN_ANIMATIONS_TIMELINE_CNT;
+    // Aloca um array para armazenar as Timelines de Animação.
+    lv_anim_timeline_t ** at_array =
+        lv_malloc(sizeof(lv_anim_timeline_t *) * _SCREEN_ANIMATIONS_TIMELINE_CNT);
 
-// 2. Alocar
-lv_anim_timeline_t ** at_array = lv_malloc(total_bytes);
-
-// 3. Zerar TUDO
-if (at_array != NULL) {
-    lv_memzero(at_array, total_bytes);
-}
-/*
     // Cria a timeline de abertura da tela (atualmente vazia).
     at_array[SCREEN_ANIMATIONS_TIMELINE_SCREEN_OPEN] =
         timeline_screen_open_create(lv_obj_0);
-*/
+
     // Armazena o array de timelines nos user data da tela.
     lv_obj_set_user_data(lv_obj_0, at_array);
     // Adiciona um callback para liberar a memória das timelines quando a tela for deletada.
@@ -195,16 +187,8 @@ static void free_timeline_event_cb(lv_event_t * e)
 {
     lv_anim_timeline_t ** at_array = lv_event_get_user_data(e);
 
-    // 1. Proteção: Se o array principal for nulo, sai fora.
-    if (at_array == NULL) return;
-
-    for (uint32_t i = 0; i < _SCREEN_ANIMATIONS_TIMELINE_CNT; i++) {
-        // 2. Proteção: Só tenta deletar se o ponteiro for válido (não NULL)
-        if (at_array[i] != NULL) {
-            lv_anim_timeline_delete(at_array[i]);
-            at_array[i] = NULL; // Boa prática: anular após deletar
-        }
-    }
+    for (uint32_t i = 0; i < _SCREEN_ANIMATIONS_TIMELINE_CNT; i++)
+        lv_anim_timeline_delete(at_array[i]);
 
     lv_free(at_array);
 }
@@ -332,7 +316,7 @@ static void swipe_event_cb(lv_event_t * e)
     if (dir == LV_DIR_LEFT) {
         // CONDIÇÃO INVERTIDA: Agora só abre se o toque inicial for na metade direita (X >= 240).
         // Isso evita que o swipe interfira em widgets na metade esquerda da tela.
-        if (p.x >= 240) {
+        if (p.x >= 240) { 
             if (lv_obj_has_flag(list, LV_OBJ_FLAG_HIDDEN))
                 open_list_with_anim(list);
         }

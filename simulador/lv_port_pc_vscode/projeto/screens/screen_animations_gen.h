@@ -16,7 +16,7 @@ extern "C" {
 #ifdef LV_LVGL_H_INCLUDE_SIMPLE
     #include "lvgl.h"
 #else
-    #include "../lvgl/lvgl.h"
+    #include "../lvgl/lvgl.h" 
 #endif
 
 /*********************
@@ -38,7 +38,7 @@ typedef enum {
 
 
 
-lv_obj_t * screen_animations_creater(void);
+lv_obj_t * screen_animations_create(void);
 
 /**
  * Get a timeline of a screen_animations

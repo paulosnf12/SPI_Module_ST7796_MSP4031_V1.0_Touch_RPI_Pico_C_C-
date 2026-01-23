@@ -11,6 +11,7 @@
 #include "../visor/visor_gen.h" // Dependência do componente de display.
 #include <string.h> // Para manipulação de strings.
 #include <stdlib.h> // Para funções utilitárias (ex: atof).
+#include <math.h> // Para funções matemáticas (ex: powf).
 
 /*********************
  * DEFINES
@@ -253,21 +254,25 @@ static void list_button_event_cb(lv_event_t * e)  // Handler de eventos para os 
         lv_textarea_delete_char(display); // Remove o último caractere do display.
     } 
     // ENTER
-    else if (strcmp(btn_txt, "ENTER") == 0)  // Verifica se o botão é ENTER.
+    else if (strcmp(btn_txt, "ENTER") == 0)
     {
-        const char * current_text = lv_textarea_get_text(display); // Obtém o texto atual do display.
-        strncpy(last_enter_value, current_text, sizeof(last_enter_value)); // Armazena o texto em last_enter_value.
-        last_enter_value[sizeof(last_enter_value)-1] = '\0'; // Garante terminação nula.
+    const char * current_text = lv_textarea_get_text(display);
+    strncpy(last_enter_value, current_text, sizeof(last_enter_value));
+    last_enter_value[sizeof(last_enter_value) - 1] = '\0';
 
-        // Atualiza visor
-        // Chama funções do visor para atualizar o valor.
+    /* Entrada agora é em dBm */
+    float dbm = atof(last_enter_value);
 
-        visor_set_value(last_enter_value); // Atualiza o visor com o valor digitado.
-        float v = atof(last_enter_value); // Converte o texto para float.
-        visor_manual_enter(v); // Chama a função de entrada manual do visor com o valor convertido.
+    /* Conversão dBm → mW */
+    float mw = powf(10.0f, dbm / 10.0f);
 
-        lv_obj_add_flag(list, LV_OBJ_FLAG_HIDDEN); // Esconde a lista após o ENTER.
-    } 
+    /* Atualiza visor */
+    visor_set_value_float(mw);
+    visor_manual_enter(mw);
+
+    lv_obj_add_flag(list, LV_OBJ_FLAG_HIDDEN);
+    }
+
     // menos sinal
     else if (strcmp(btn_txt, "-") == 0) // Verifica se o botão é o sinal de menos.
     {
