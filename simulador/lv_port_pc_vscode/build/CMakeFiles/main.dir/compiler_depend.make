@@ -457,6 +457,224 @@ CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.obj: C:/Users/saopa/D
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/arc/infinite_knob.h
 
+CMakeFiles/main.dir/projeto/components/buttons/button_back_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/button_back_gen.c \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lv_conf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lv_version.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lvgl.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_group.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_class.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_draw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_event.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_pos.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_property.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_scroll.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_tree.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_observer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_refr.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/monkey/lv_monkey.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/sysmon/lv_sysmon.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/test/lv_test.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/display/lv_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/eve/lv_draw_eve_target.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_arc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_blur.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_buf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_image.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_label.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_line.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_rect.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_triangle.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_vector.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_decoder.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_dsc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/snapshot/lv_snapshot.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/sw/lv_draw_sw_utils.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/drm/lv_linux_drm.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/fb/lv_linux_fbdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ft81x/lv_ft81x.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ili9341/lv_ili9341.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lovyan_gfx/lv_lovyan_gfx.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/nv3007/lv_nv3007.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/renesas_glcdc/lv_renesas_glcdc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7735/lv_st7735.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7789/lv_st7789.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7796/lv_st7796.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/tft_espi/lv_tft_espi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display_defines.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/evdev/lv_evdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/libinput/lv_libinput.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/lv_drivers.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_entry.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_fbdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_lcd.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_libuv.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_touchscreen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_driver.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_egl.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_glfw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_texture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_window.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/qnx/lv_qnx.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_keyboard.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mouse.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mousewheel.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_window.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_context.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_indev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/wayland/lv_wayland.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_input.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/x11/lv_x11.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/binfont_loader/lv_binfont_loader.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/fmt_txt/lv_font_fmt_txt.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/font_manager/lv_font_manager.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/imgfont/lv_imgfont.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_font.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_symbol_def.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_gridnav.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev_gesture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/flex/lv_flex.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/grid/lv_grid.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/lv_layout.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/barcode/lv_barcode.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bin_decoder/lv_bin_decoder.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bmp/lv_bmp.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/ffmpeg/lv_ffmpeg.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/freetype/lv_freetype.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/fsdrv/lv_fsdrv.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gif/lv_gif.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_data/lv_gltf_model.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_view/lv_gltf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gstreamer/lv_gstreamer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libjpeg_turbo/lv_libjpeg_turbo.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libpng/lv_libpng.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libwebp/lv_libwebp.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/lodepng/lv_lodepng.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/qrcode/lv_qrcode.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rle/lv_rle.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rlottie/lv_rlottie.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg_render.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/tiny_ttf/lv_tiny_ttf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/tjpgd/lv_tjpgd.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v8.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_0.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_1.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_2.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_3.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_4.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_init.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim_timeline.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_area.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_array.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_assert.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_async.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_bidi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_circle_buf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color_op.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_event.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_fs.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_grad.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_iter.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_ll.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_log.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_math.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_matrix.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_palette.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler_builtin.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_rb.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_text.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_timer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_tree.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_utils.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/osal/lv_os.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/file_explorer/lv_file_explorer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/fragment/lv_fragment.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/translation/lv_translation.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_mem.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_sprintf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_string.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/default/lv_theme_default.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/lv_theme.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/mono/lv_theme_mono.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/simple/lv_theme_simple.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/tick/lv_tick.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/3dtexture/lv_3dtexture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/animimage/lv_animimage.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arc/lv_arc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arclabel/lv_arclabel.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/bar/lv_bar.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/button/lv_button.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/buttonmatrix/lv_buttonmatrix.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_chinese.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_arrow.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_dropdown.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/canvas/lv_canvas.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/chart/lv_chart.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/checkbox/lv_checkbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/dropdown/lv_dropdown.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/image/lv_image.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/imagebutton/lv_imagebutton.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/ime/lv_ime_pinyin.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/keyboard/lv_keyboard.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/label/lv_label.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/led/lv_led.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/line/lv_line.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/list/lv_list.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/lottie/lv_lottie.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/menu/lv_menu.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/msgbox/lv_msgbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/roller/lv_roller.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/scale/lv_scale.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/slider/lv_slider.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/span/lv_span.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/spinbox/lv_spinbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/spinner/lv_spinner.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/switch/lv_switch.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/table/lv_table.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tabview/lv_tabview.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/textarea/lv_textarea.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tileview/lv_tileview.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/win/lv_win.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/xml/lv_xml.h \
+  C:/msys64/mingw64/include/_mingw.h \
+  C:/msys64/mingw64/include/_mingw_mac.h \
+  C:/msys64/mingw64/include/_mingw_secapi.h \
+  C:/msys64/mingw64/include/_mingw_stdarg.h \
+  C:/msys64/mingw64/include/corecrt.h \
+  C:/msys64/mingw64/include/crtdefs.h \
+  C:/msys64/mingw64/include/inttypes.h \
+  C:/msys64/mingw64/include/limits.h \
+  C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
+  C:/msys64/mingw64/include/stdarg.h \
+  C:/msys64/mingw64/include/stddef.h \
+  C:/msys64/mingw64/include/stdint.h \
+  C:/msys64/mingw64/include/vadefs.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/button_back_gen.h
+
 CMakeFiles/main.dir/projeto/components/buttons/button_normal_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/button_normal_gen.c \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lv_conf.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lv_version.h \
@@ -905,6 +1123,224 @@ CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.obj: C:/
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/button_show_numpad_gen.h
 
+CMakeFiles/main.dir/projeto/components/buttons/home_button.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/home_button.c \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lv_conf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lv_version.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lvgl.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_group.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_class.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_draw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_event.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_pos.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_property.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_scroll.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_tree.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_observer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_refr.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/monkey/lv_monkey.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/sysmon/lv_sysmon.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/test/lv_test.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/display/lv_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/eve/lv_draw_eve_target.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_arc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_blur.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_buf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_image.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_label.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_line.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_rect.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_triangle.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_vector.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_decoder.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_dsc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/snapshot/lv_snapshot.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/sw/lv_draw_sw_utils.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/drm/lv_linux_drm.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/fb/lv_linux_fbdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ft81x/lv_ft81x.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ili9341/lv_ili9341.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lovyan_gfx/lv_lovyan_gfx.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/nv3007/lv_nv3007.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/renesas_glcdc/lv_renesas_glcdc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7735/lv_st7735.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7789/lv_st7789.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7796/lv_st7796.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/tft_espi/lv_tft_espi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display_defines.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/evdev/lv_evdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/libinput/lv_libinput.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/lv_drivers.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_entry.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_fbdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_lcd.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_libuv.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_touchscreen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_driver.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_egl.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_glfw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_texture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_window.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/qnx/lv_qnx.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_keyboard.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mouse.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mousewheel.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_window.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_context.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_indev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/wayland/lv_wayland.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_input.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/x11/lv_x11.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/binfont_loader/lv_binfont_loader.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/fmt_txt/lv_font_fmt_txt.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/font_manager/lv_font_manager.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/imgfont/lv_imgfont.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_font.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_symbol_def.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_gridnav.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev_gesture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/flex/lv_flex.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/grid/lv_grid.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/lv_layout.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/barcode/lv_barcode.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bin_decoder/lv_bin_decoder.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bmp/lv_bmp.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/ffmpeg/lv_ffmpeg.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/freetype/lv_freetype.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/fsdrv/lv_fsdrv.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gif/lv_gif.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_data/lv_gltf_model.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_view/lv_gltf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gstreamer/lv_gstreamer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libjpeg_turbo/lv_libjpeg_turbo.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libpng/lv_libpng.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libwebp/lv_libwebp.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/lodepng/lv_lodepng.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/qrcode/lv_qrcode.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rle/lv_rle.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rlottie/lv_rlottie.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg_render.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/tiny_ttf/lv_tiny_ttf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/tjpgd/lv_tjpgd.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v8.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_0.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_1.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_2.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_3.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_4.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_init.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim_timeline.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_area.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_array.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_assert.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_async.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_bidi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_circle_buf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color_op.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_event.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_fs.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_grad.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_iter.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_ll.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_log.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_math.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_matrix.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_palette.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler_builtin.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_rb.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_text.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_timer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_tree.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_utils.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/osal/lv_os.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/file_explorer/lv_file_explorer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/fragment/lv_fragment.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/translation/lv_translation.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_mem.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_sprintf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_string.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/default/lv_theme_default.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/lv_theme.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/mono/lv_theme_mono.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/simple/lv_theme_simple.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/tick/lv_tick.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/3dtexture/lv_3dtexture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/animimage/lv_animimage.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arc/lv_arc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arclabel/lv_arclabel.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/bar/lv_bar.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/button/lv_button.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/buttonmatrix/lv_buttonmatrix.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_chinese.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_arrow.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_dropdown.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/canvas/lv_canvas.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/chart/lv_chart.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/checkbox/lv_checkbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/dropdown/lv_dropdown.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/image/lv_image.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/imagebutton/lv_imagebutton.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/ime/lv_ime_pinyin.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/keyboard/lv_keyboard.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/label/lv_label.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/led/lv_led.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/line/lv_line.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/list/lv_list.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/lottie/lv_lottie.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/menu/lv_menu.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/msgbox/lv_msgbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/roller/lv_roller.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/scale/lv_scale.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/slider/lv_slider.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/span/lv_span.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/spinbox/lv_spinbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/spinner/lv_spinner.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/switch/lv_switch.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/table/lv_table.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tabview/lv_tabview.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/textarea/lv_textarea.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tileview/lv_tileview.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/win/lv_win.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/xml/lv_xml.h \
+  C:/msys64/mingw64/include/_mingw.h \
+  C:/msys64/mingw64/include/_mingw_mac.h \
+  C:/msys64/mingw64/include/_mingw_secapi.h \
+  C:/msys64/mingw64/include/_mingw_stdarg.h \
+  C:/msys64/mingw64/include/corecrt.h \
+  C:/msys64/mingw64/include/crtdefs.h \
+  C:/msys64/mingw64/include/inttypes.h \
+  C:/msys64/mingw64/include/limits.h \
+  C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
+  C:/msys64/mingw64/include/stdarg.h \
+  C:/msys64/mingw64/include/stddef.h \
+  C:/msys64/mingw64/include/stdint.h \
+  C:/msys64/mingw64/include/vadefs.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/home_button.h
+
 CMakeFiles/main.dir/projeto/components/list/list_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/list/list_gen.c \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lv_conf.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lv_version.h \
@@ -1139,6 +1575,231 @@ CMakeFiles/main.dir/projeto/components/list/list_gen.c.obj: C:/Users/saopa/Deskt
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/list/list_gen.h
 
+CMakeFiles/main.dir/projeto/components/menu/time_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/menu/time_gen.c \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lv_conf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lv_version.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lvgl.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_group.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_class.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_draw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_event.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_pos.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_property.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_scroll.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_tree.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_observer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_refr.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/monkey/lv_monkey.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/sysmon/lv_sysmon.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/test/lv_test.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/display/lv_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/eve/lv_draw_eve_target.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_arc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_blur.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_buf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_image.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_label.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_line.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_rect.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_triangle.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_vector.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_decoder.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_dsc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/snapshot/lv_snapshot.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/sw/lv_draw_sw_utils.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/drm/lv_linux_drm.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/fb/lv_linux_fbdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ft81x/lv_ft81x.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ili9341/lv_ili9341.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lovyan_gfx/lv_lovyan_gfx.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/nv3007/lv_nv3007.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/renesas_glcdc/lv_renesas_glcdc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7735/lv_st7735.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7789/lv_st7789.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7796/lv_st7796.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/tft_espi/lv_tft_espi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display_defines.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/evdev/lv_evdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/libinput/lv_libinput.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/lv_drivers.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_entry.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_fbdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_lcd.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_libuv.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_touchscreen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_driver.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_egl.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_glfw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_texture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_window.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/qnx/lv_qnx.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_keyboard.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mouse.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mousewheel.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_window.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_context.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_indev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/wayland/lv_wayland.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_input.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/x11/lv_x11.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/binfont_loader/lv_binfont_loader.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/fmt_txt/lv_font_fmt_txt.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/font_manager/lv_font_manager.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/imgfont/lv_imgfont.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_font.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_symbol_def.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_gridnav.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev_gesture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/flex/lv_flex.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/grid/lv_grid.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/lv_layout.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/barcode/lv_barcode.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bin_decoder/lv_bin_decoder.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bmp/lv_bmp.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/ffmpeg/lv_ffmpeg.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/freetype/lv_freetype.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/fsdrv/lv_fsdrv.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gif/lv_gif.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_data/lv_gltf_model.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_view/lv_gltf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gstreamer/lv_gstreamer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libjpeg_turbo/lv_libjpeg_turbo.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libpng/lv_libpng.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libwebp/lv_libwebp.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/lodepng/lv_lodepng.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/qrcode/lv_qrcode.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rle/lv_rle.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rlottie/lv_rlottie.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg_render.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/tiny_ttf/lv_tiny_ttf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/tjpgd/lv_tjpgd.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v8.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_0.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_1.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_2.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_3.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_4.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_init.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim_timeline.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_area.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_array.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_assert.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_async.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_bidi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_circle_buf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color_op.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_event.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_fs.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_grad.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_iter.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_ll.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_log.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_math.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_matrix.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_palette.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler_builtin.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_rb.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_text.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_timer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_tree.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_utils.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/osal/lv_os.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/file_explorer/lv_file_explorer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/fragment/lv_fragment.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/translation/lv_translation.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_mem.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_sprintf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_string.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/default/lv_theme_default.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/lv_theme.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/mono/lv_theme_mono.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/simple/lv_theme_simple.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/tick/lv_tick.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/3dtexture/lv_3dtexture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/animimage/lv_animimage.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arc/lv_arc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arclabel/lv_arclabel.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/bar/lv_bar.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/button/lv_button.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/buttonmatrix/lv_buttonmatrix.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_chinese.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_arrow.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_dropdown.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/canvas/lv_canvas.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/chart/lv_chart.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/checkbox/lv_checkbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/dropdown/lv_dropdown.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/image/lv_image.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/imagebutton/lv_imagebutton.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/ime/lv_ime_pinyin.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/keyboard/lv_keyboard.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/label/lv_label.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/led/lv_led.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/line/lv_line.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/list/lv_list.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/lottie/lv_lottie.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/menu/lv_menu.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/msgbox/lv_msgbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/roller/lv_roller.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/scale/lv_scale.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/slider/lv_slider.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/span/lv_span.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/spinbox/lv_spinbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/spinner/lv_spinner.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/switch/lv_switch.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/table/lv_table.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tabview/lv_tabview.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/textarea/lv_textarea.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tileview/lv_tileview.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/win/lv_win.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/xml/lv_xml.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_wifi_gen.h \
+  C:/msys64/mingw64/include/_mingw.h \
+  C:/msys64/mingw64/include/_mingw_mac.h \
+  C:/msys64/mingw64/include/_mingw_secapi.h \
+  C:/msys64/mingw64/include/_mingw_stdarg.h \
+  C:/msys64/mingw64/include/_timeval.h \
+  C:/msys64/mingw64/include/corecrt.h \
+  C:/msys64/mingw64/include/crtdefs.h \
+  C:/msys64/mingw64/include/inttypes.h \
+  C:/msys64/mingw64/include/limits.h \
+  C:/msys64/mingw64/include/pthread_compat.h \
+  C:/msys64/mingw64/include/pthread_time.h \
+  C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
+  C:/msys64/mingw64/include/sec_api/sys/timeb_s.h \
+  C:/msys64/mingw64/include/stdarg.h \
+  C:/msys64/mingw64/include/stddef.h \
+  C:/msys64/mingw64/include/stdint.h \
+  C:/msys64/mingw64/include/sys/timeb.h \
+  C:/msys64/mingw64/include/time.h \
+  C:/msys64/mingw64/include/vadefs.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/menu/time_gen.h
+
 CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/visor/visor_gen.c \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lv_conf.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lv_version.h \
@@ -1366,6 +2027,223 @@ CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.obj: C:/Users/saopa/Des
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/visor/visor_gen.h
 
+CMakeFiles/main.dir/projeto/images/logo_hwit.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/images/logo_hwit.c \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lv_conf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lv_version.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lvgl.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_group.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_class.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_draw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_event.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_pos.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_property.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_scroll.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_tree.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_observer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_refr.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/monkey/lv_monkey.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/sysmon/lv_sysmon.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/test/lv_test.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/display/lv_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/eve/lv_draw_eve_target.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_arc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_blur.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_buf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_image.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_label.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_line.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_rect.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_triangle.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_vector.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_decoder.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_dsc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/snapshot/lv_snapshot.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/sw/lv_draw_sw_utils.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/drm/lv_linux_drm.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/fb/lv_linux_fbdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ft81x/lv_ft81x.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ili9341/lv_ili9341.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lovyan_gfx/lv_lovyan_gfx.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/nv3007/lv_nv3007.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/renesas_glcdc/lv_renesas_glcdc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7735/lv_st7735.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7789/lv_st7789.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7796/lv_st7796.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/tft_espi/lv_tft_espi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display_defines.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/evdev/lv_evdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/libinput/lv_libinput.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/lv_drivers.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_entry.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_fbdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_lcd.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_libuv.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_touchscreen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_driver.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_egl.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_glfw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_texture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_window.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/qnx/lv_qnx.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_keyboard.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mouse.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mousewheel.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_window.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_context.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_indev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/wayland/lv_wayland.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_input.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/x11/lv_x11.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/binfont_loader/lv_binfont_loader.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/fmt_txt/lv_font_fmt_txt.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/font_manager/lv_font_manager.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/imgfont/lv_imgfont.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_font.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_symbol_def.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_gridnav.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev_gesture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/flex/lv_flex.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/grid/lv_grid.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/lv_layout.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/barcode/lv_barcode.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bin_decoder/lv_bin_decoder.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bmp/lv_bmp.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/ffmpeg/lv_ffmpeg.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/freetype/lv_freetype.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/fsdrv/lv_fsdrv.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gif/lv_gif.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_data/lv_gltf_model.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_view/lv_gltf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gstreamer/lv_gstreamer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libjpeg_turbo/lv_libjpeg_turbo.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libpng/lv_libpng.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libwebp/lv_libwebp.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/lodepng/lv_lodepng.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/qrcode/lv_qrcode.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rle/lv_rle.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rlottie/lv_rlottie.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg_render.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/tiny_ttf/lv_tiny_ttf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/tjpgd/lv_tjpgd.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v8.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_0.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_1.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_2.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_3.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_4.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_init.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim_timeline.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_area.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_array.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_assert.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_async.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_bidi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_circle_buf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color_op.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_event.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_fs.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_grad.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_iter.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_ll.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_log.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_math.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_matrix.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_palette.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler_builtin.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_rb.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_text.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_timer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_tree.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_utils.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/osal/lv_os.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/file_explorer/lv_file_explorer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/fragment/lv_fragment.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/translation/lv_translation.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_mem.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_sprintf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_string.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/default/lv_theme_default.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/lv_theme.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/mono/lv_theme_mono.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/simple/lv_theme_simple.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/tick/lv_tick.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/3dtexture/lv_3dtexture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/animimage/lv_animimage.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arc/lv_arc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arclabel/lv_arclabel.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/bar/lv_bar.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/button/lv_button.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/buttonmatrix/lv_buttonmatrix.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_chinese.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_arrow.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_dropdown.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/canvas/lv_canvas.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/chart/lv_chart.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/checkbox/lv_checkbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/dropdown/lv_dropdown.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/image/lv_image.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/imagebutton/lv_imagebutton.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/ime/lv_ime_pinyin.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/keyboard/lv_keyboard.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/label/lv_label.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/led/lv_led.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/line/lv_line.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/list/lv_list.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/lottie/lv_lottie.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/menu/lv_menu.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/msgbox/lv_msgbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/roller/lv_roller.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/scale/lv_scale.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/slider/lv_slider.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/span/lv_span.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/spinbox/lv_spinbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/spinner/lv_spinner.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/switch/lv_switch.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/table/lv_table.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tabview/lv_tabview.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/textarea/lv_textarea.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tileview/lv_tileview.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/win/lv_win.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/xml/lv_xml.h \
+  C:/msys64/mingw64/include/_mingw.h \
+  C:/msys64/mingw64/include/_mingw_mac.h \
+  C:/msys64/mingw64/include/_mingw_secapi.h \
+  C:/msys64/mingw64/include/_mingw_stdarg.h \
+  C:/msys64/mingw64/include/corecrt.h \
+  C:/msys64/mingw64/include/crtdefs.h \
+  C:/msys64/mingw64/include/inttypes.h \
+  C:/msys64/mingw64/include/limits.h \
+  C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
+  C:/msys64/mingw64/include/stdarg.h \
+  C:/msys64/mingw64/include/stddef.h \
+  C:/msys64/mingw64/include/stdint.h \
+  C:/msys64/mingw64/include/vadefs.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h
+
 CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_animations_gen.c \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lv_conf.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lv_version.h \
@@ -1563,13 +2441,14 @@ CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.obj: C:/Users/saopa/
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tileview/lv_tileview.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/win/lv_win.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/xml/lv_xml.h \
-  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/arc/arc_gen.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/arc/infinite_knob.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/button_normal_gen.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/button_show_numpad_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/home_button.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/list/list_gen.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/visor/visor_gen.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_animations_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_menu_gen.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui_animations.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui_animations_gen.h \
   C:/msys64/mingw64/include/_mingw.h \
@@ -1592,6 +2471,447 @@ CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.obj: C:/Users/saopa/
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_animations_gen.h
+
+CMakeFiles/main.dir/projeto/screens/screen_menu_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_menu_gen.c \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lv_conf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lv_version.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lvgl.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_group.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_class.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_draw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_event.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_pos.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_property.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_scroll.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_tree.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_observer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_refr.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/monkey/lv_monkey.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/sysmon/lv_sysmon.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/test/lv_test.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/display/lv_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/eve/lv_draw_eve_target.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_arc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_blur.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_buf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_image.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_label.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_line.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_rect.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_triangle.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_vector.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_decoder.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_dsc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/snapshot/lv_snapshot.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/sw/lv_draw_sw_utils.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/drm/lv_linux_drm.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/fb/lv_linux_fbdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ft81x/lv_ft81x.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ili9341/lv_ili9341.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lovyan_gfx/lv_lovyan_gfx.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/nv3007/lv_nv3007.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/renesas_glcdc/lv_renesas_glcdc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7735/lv_st7735.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7789/lv_st7789.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7796/lv_st7796.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/tft_espi/lv_tft_espi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display_defines.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/evdev/lv_evdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/libinput/lv_libinput.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/lv_drivers.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_entry.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_fbdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_lcd.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_libuv.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_touchscreen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_driver.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_egl.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_glfw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_texture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_window.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/qnx/lv_qnx.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_keyboard.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mouse.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mousewheel.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_window.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_context.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_indev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/wayland/lv_wayland.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_input.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/x11/lv_x11.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/binfont_loader/lv_binfont_loader.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/fmt_txt/lv_font_fmt_txt.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/font_manager/lv_font_manager.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/imgfont/lv_imgfont.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_font.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_symbol_def.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_gridnav.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev_gesture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/flex/lv_flex.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/grid/lv_grid.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/lv_layout.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/barcode/lv_barcode.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bin_decoder/lv_bin_decoder.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bmp/lv_bmp.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/ffmpeg/lv_ffmpeg.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/freetype/lv_freetype.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/fsdrv/lv_fsdrv.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gif/lv_gif.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_data/lv_gltf_model.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_view/lv_gltf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gstreamer/lv_gstreamer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libjpeg_turbo/lv_libjpeg_turbo.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libpng/lv_libpng.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libwebp/lv_libwebp.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/lodepng/lv_lodepng.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/qrcode/lv_qrcode.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rle/lv_rle.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rlottie/lv_rlottie.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg_render.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/tiny_ttf/lv_tiny_ttf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/tjpgd/lv_tjpgd.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v8.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_0.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_1.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_2.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_3.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_4.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_init.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim_timeline.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_area.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_array.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_assert.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_async.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_bidi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_circle_buf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color_op.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_event.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_fs.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_grad.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_iter.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_ll.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_log.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_math.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_matrix.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_palette.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler_builtin.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_rb.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_text.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_timer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_tree.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_utils.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/osal/lv_os.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/file_explorer/lv_file_explorer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/fragment/lv_fragment.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/translation/lv_translation.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_mem.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_sprintf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_string.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/default/lv_theme_default.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/lv_theme.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/mono/lv_theme_mono.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/simple/lv_theme_simple.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/tick/lv_tick.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/3dtexture/lv_3dtexture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/animimage/lv_animimage.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arc/lv_arc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arclabel/lv_arclabel.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/bar/lv_bar.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/button/lv_button.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/buttonmatrix/lv_buttonmatrix.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_chinese.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_arrow.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_dropdown.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/canvas/lv_canvas.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/chart/lv_chart.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/checkbox/lv_checkbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/dropdown/lv_dropdown.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/image/lv_image.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/imagebutton/lv_imagebutton.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/ime/lv_ime_pinyin.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/keyboard/lv_keyboard.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/label/lv_label.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/led/lv_led.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/line/lv_line.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/list/lv_list.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/lottie/lv_lottie.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/menu/lv_menu.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/msgbox/lv_msgbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/roller/lv_roller.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/scale/lv_scale.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/slider/lv_slider.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/span/lv_span.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/spinbox/lv_spinbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/spinner/lv_spinner.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/switch/lv_switch.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/table/lv_table.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tabview/lv_tabview.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/textarea/lv_textarea.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tileview/lv_tileview.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/win/lv_win.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/xml/lv_xml.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/button_back_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/menu/time_gen.h \
+  C:/msys64/mingw64/include/_mingw.h \
+  C:/msys64/mingw64/include/_mingw_mac.h \
+  C:/msys64/mingw64/include/_mingw_secapi.h \
+  C:/msys64/mingw64/include/_mingw_stdarg.h \
+  C:/msys64/mingw64/include/corecrt.h \
+  C:/msys64/mingw64/include/crtdefs.h \
+  C:/msys64/mingw64/include/inttypes.h \
+  C:/msys64/mingw64/include/limits.h \
+  C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
+  C:/msys64/mingw64/include/stdarg.h \
+  C:/msys64/mingw64/include/stddef.h \
+  C:/msys64/mingw64/include/stdint.h \
+  C:/msys64/mingw64/include/vadefs.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_animations_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_menu_gen.h
+
+CMakeFiles/main.dir/projeto/screens/screen_wifi_gen.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_wifi_gen.c \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lv_conf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lv_version.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lvgl.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_group.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_class.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_draw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_event.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_pos.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_property.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_scroll.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_tree.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_observer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_refr.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/monkey/lv_monkey.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/sysmon/lv_sysmon.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/test/lv_test.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/display/lv_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/eve/lv_draw_eve_target.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_arc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_blur.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_buf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_image.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_label.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_line.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_rect.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_triangle.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_vector.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_decoder.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_dsc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/snapshot/lv_snapshot.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/sw/lv_draw_sw_utils.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/drm/lv_linux_drm.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/fb/lv_linux_fbdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ft81x/lv_ft81x.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ili9341/lv_ili9341.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lovyan_gfx/lv_lovyan_gfx.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/nv3007/lv_nv3007.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/renesas_glcdc/lv_renesas_glcdc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7735/lv_st7735.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7789/lv_st7789.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st7796/lv_st7796.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/tft_espi/lv_tft_espi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display_defines.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/evdev/lv_evdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/libinput/lv_libinput.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/lv_drivers.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_entry.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_fbdev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_lcd.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_libuv.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_touchscreen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_driver.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_egl.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_glfw.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_texture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_window.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/qnx/lv_qnx.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_keyboard.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mouse.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mousewheel.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_window.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_context.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/uefi/lv_uefi_indev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/wayland/lv_wayland.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_display.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_input.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/x11/lv_x11.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/binfont_loader/lv_binfont_loader.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/fmt_txt/lv_font_fmt_txt.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/font_manager/lv_font_manager.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/imgfont/lv_imgfont.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_font.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_symbol_def.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_gridnav.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev_gesture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/flex/lv_flex.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/grid/lv_grid.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/lv_layout.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/barcode/lv_barcode.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bin_decoder/lv_bin_decoder.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bmp/lv_bmp.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/ffmpeg/lv_ffmpeg.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/freetype/lv_freetype.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/fsdrv/lv_fsdrv.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gif/lv_gif.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_data/lv_gltf_model.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_view/lv_gltf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gstreamer/lv_gstreamer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libjpeg_turbo/lv_libjpeg_turbo.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libpng/lv_libpng.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libwebp/lv_libwebp.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/lodepng/lv_lodepng.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/qrcode/lv_qrcode.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rle/lv_rle.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rlottie/lv_rlottie.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg_render.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/tiny_ttf/lv_tiny_ttf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/tjpgd/lv_tjpgd.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v8.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_0.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_1.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_2.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_3.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_4.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_init.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim_timeline.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_area.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_array.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_assert.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_async.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_bidi.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_circle_buf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color_op.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_event.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_fs.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_grad.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_iter.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_ll.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_log.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_math.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_matrix.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_palette.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler_builtin.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_rb.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_text.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_timer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_tree.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_utils.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/osal/lv_os.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/file_explorer/lv_file_explorer.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/fragment/lv_fragment.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/translation/lv_translation.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_mem.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_sprintf.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_string.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/default/lv_theme_default.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/lv_theme.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/mono/lv_theme_mono.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/simple/lv_theme_simple.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/tick/lv_tick.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/3dtexture/lv_3dtexture.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/animimage/lv_animimage.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arc/lv_arc.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arclabel/lv_arclabel.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/bar/lv_bar.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/button/lv_button.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/buttonmatrix/lv_buttonmatrix.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_chinese.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_arrow.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_dropdown.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/canvas/lv_canvas.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/chart/lv_chart.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/checkbox/lv_checkbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/dropdown/lv_dropdown.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/image/lv_image.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/imagebutton/lv_imagebutton.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/ime/lv_ime_pinyin.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/keyboard/lv_keyboard.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/label/lv_label.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/led/lv_led.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/line/lv_line.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/list/lv_list.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/lottie/lv_lottie.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/menu/lv_menu.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/msgbox/lv_msgbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/roller/lv_roller.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/scale/lv_scale.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/slider/lv_slider.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/span/lv_span.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/spinbox/lv_spinbox.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/spinner/lv_spinner.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/switch/lv_switch.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/table/lv_table.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tabview/lv_tabview.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/textarea/lv_textarea.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tileview/lv_tileview.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/win/lv_win.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/xml/lv_xml.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/button_back_gen.h \
+  C:/msys64/mingw64/include/_mingw.h \
+  C:/msys64/mingw64/include/_mingw_mac.h \
+  C:/msys64/mingw64/include/_mingw_secapi.h \
+  C:/msys64/mingw64/include/_mingw_stdarg.h \
+  C:/msys64/mingw64/include/corecrt.h \
+  C:/msys64/mingw64/include/crtdefs.h \
+  C:/msys64/mingw64/include/inttypes.h \
+  C:/msys64/mingw64/include/limits.h \
+  C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
+  C:/msys64/mingw64/include/stdarg.h \
+  C:/msys64/mingw64/include/stddef.h \
+  C:/msys64/mingw64/include/stdint.h \
+  C:/msys64/mingw64/include/vadefs.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_menu_gen.h \
+  C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_wifi_gen.h
 
 CMakeFiles/main.dir/projeto/ui/images.c.obj: C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/images.c \
   C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lv_conf.h \
@@ -4725,9 +6045,9 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lv_version.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_fbdev.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/f16cintrin.h:
 
@@ -4735,59 +6055,59 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512ifmaintrin.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/src/main.c:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/lvgl.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512ifmavlintrin.h:
-
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_font.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/src/main.c:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_group.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/gltf/lv_example_gltf.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_font.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512ifmavlintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h:
 
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/gltf/lv_example_gltf.h:
+
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_class.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_arc.h:
 
 C:/msys64/mingw64/include/intrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_draw.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_arc.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/lv_symbol_def.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_libuv.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_0.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_event.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_0.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_pos.h:
 
-C:/msys64/mingw64/include/SDL2/SDL_keyboard.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_property.h:
+
+C:/msys64/mingw64/include/SDL2/SDL_keyboard.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/drm/lv_linux_drm.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_scroll.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/translation/lv_translation.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/translation/lv_translation.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_line.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_style_gen.h:
 
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ft81x/lv_ft81x.h:
+
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui_animations.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/monkey/lv_monkey.h:
-
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ft81x/lv_ft81x.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_obj_tree.h:
 
@@ -4795,17 +6115,19 @@ C:/msys64/mingw64/include/errno.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_observer.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vp2intersectintrin.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/core/lv_refr.h:
 
-C:/msys64/mingw64/include/pthread.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vp2intersectintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_driver.h:
+
+C:/msys64/mingw64/include/pthread.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/debugging/sysmon/lv_sysmon.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_menu_gen.c:
 
 C:/msys64/mingw64/include/signal.h:
 
@@ -4817,57 +6139,57 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/eve/lv_draw_eve_target.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/led/lv_led.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_vector.h:
 
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/led/lv_led.h:
+
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_buf.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vlbwintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/chart/lv_chart.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_buf.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_label.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vbmi2vlintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/renesas_glcdc/lv_renesas_glcdc.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_rect.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo.h:
-
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color_op.h:
-
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_gridnav.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_draw_triangle.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_decoder.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_gridnav.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/others/observer/lv_example_observer.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_color_op.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_decoder.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/lv_image_dsc.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/ffmpeg/lv_example_ffmpeg.h:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h:
-
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_4.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/others/observer/lv_example_observer.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/snapshot/lv_snapshot.h:
 
-C:/msys64/mingw64/include/time.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_4.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/ffmpeg/lv_example_ffmpeg.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/image/lv_image.h:
+
+C:/msys64/mingw64/include/time.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/libinput/lv_libinput.h:
 
@@ -4875,23 +6197,25 @@ C:/msys64/mingw64/include/string.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/draw/sw/lv_draw_sw_utils.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/rlottie/lv_example_rlottie.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/fb/lv_linux_fbdev.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/libpng/lv_example_libpng.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/fb/lv_linux_fbdev.h:
-
-C:/msys64/mingw64/include/stddef.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/rlottie/lv_example_rlottie.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/ili9341/lv_ili9341.h:
 
-C:/msys64/mingw64/include/SDL2/SDL_assert.h:
+C:/msys64/mingw64/include/stddef.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.h:
 
-C:/msys64/mingw64/include/_mingw_stat64.h:
+C:/msys64/mingw64/include/SDL2/SDL_assert.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_display.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/menu/time_gen.c:
+
+C:/msys64/mingw64/include/_mingw_stat64.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/display/tft_espi/lv_tft_espi.h:
 
@@ -4913,9 +6237,9 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/draw/eve/lv_draw_eve_display_defines.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512fp16vlintrin.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/evdev/lv_evdev.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512fp16vlintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/lv_drivers.h:
 
@@ -4923,19 +6247,19 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_lcd.h:
 
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_touchscreen.h:
+
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_iter.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/nuttx/lv_nuttx_touchscreen.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_window.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/gstreamer/lv_example_gstreamer.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_window.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/freetype/lv_freetype.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxtf32intrin.h:
-
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/freetype/lv_freetype.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/opengles/lv_opengles_egl.h:
 
@@ -4945,15 +6269,15 @@ C:/msys64/mingw64/include/SDL2/SDL_mouse.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/qnx/lv_qnx.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/others/lv_example_others.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_keyboard.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/others/lv_example_others.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/menu/lv_menu.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/line/lv_line.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mouse.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/line/lv_line.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/sdl/lv_sdl_mousewheel.h:
 
@@ -4967,27 +6291,27 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/wayland/lv_wayland.h:
 
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_input.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bmp/lv_bmp.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/adxintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/screens.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bmp/lv_bmp.h:
-
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/windows/lv_windows_input.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/drivers/x11/lv_x11.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/binfont_loader/lv_binfont_loader.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev.h:
 
 C:/msys64/mingw64/include/getopt.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_timer.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev.h:
-
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/binfont_loader/lv_binfont_loader.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/fmt_txt/lv_font_fmt_txt.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bf16intrin.h:
-
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/fmt_txt/lv_font_fmt_txt.h:
 
 C:/msys64/mingw64/include/_mingw_mac.h:
 
@@ -4995,15 +6319,15 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/serializeintrin.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui_animations_gen.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/font/imgfont/lv_imgfont.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui_animations_gen.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/shaintrin.h:
 
-C:/msys64/mingw64/include/SDL2/SDL_rwops.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/indev/lv_indev_gesture.h:
+
+C:/msys64/mingw64/include/SDL2/SDL_rwops.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/bar/lv_bar.h:
 
@@ -5013,6 +6337,8 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/layouts/lv_layout.h:
 
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/button_back_gen.h:
+
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/barcode/lv_barcode.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/bin_decoder/lv_bin_decoder.h:
@@ -5021,15 +6347,17 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/ffmpeg/lv_ffmpeg.h:
 
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/fsdrv/lv_fsdrv.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxvnniint8intrin.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/fsdrv/lv_fsdrv.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_wifi_gen.c:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gif/lv_gif.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_sprintf.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_data/lv_gltf_model.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_sprintf.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/gltf/gltf_view/lv_gltf.h:
 
@@ -5037,13 +6365,13 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/msys64/mingw64/include/SDL2/SDL_hints.h:
 
-C:/msys64/mingw64/include/SDL2/SDL_clipboard.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libjpeg_turbo/lv_libjpeg_turbo.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/lv_examples.h:
+C:/msys64/mingw64/include/SDL2/SDL_clipboard.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libpng/lv_libpng.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/lv_examples.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/libwebp/lv_libwebp.h:
 
@@ -5057,23 +6385,23 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rle/lv_rle.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2minmaxintrin.h:
+C:/msys64/mingw64/include/sec_api/string_s.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_misc.h:
 
-C:/msys64/mingw64/include/sec_api/string_s.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2minmaxintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/rlottie/lv_rlottie.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/mono/lv_theme_mono.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg.h:
 
-C:/msys64/mingw64/include/SDL2/SDL_quit.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/mono/lv_theme_mono.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style_gen.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_header_arrow.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_style_gen.h:
+C:/msys64/mingw64/include/SDL2/SDL_quit.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/libs/svg/lv_svg_render.h:
 
@@ -5085,9 +6413,9 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xtestintrin.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/others/imgfont/lv_example_imgfont.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_1.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/others/imgfont/lv_example_imgfont.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/lv_api_map_v9_2.h:
 
@@ -5101,9 +6429,9 @@ C:/msys64/mingw64/include/SDL2/SDL_messagebox.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsaveintrin.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_anim_timeline.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsaveintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_area.h:
 
@@ -5113,17 +6441,17 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxvnniintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_assert.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_circle_buf.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_bidi.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_circle_buf.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_event.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_fs.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/ui_image_hwit.c:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_grad.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/ui_image_hwit.c:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512mediaintrin.h:
 
@@ -5139,9 +6467,9 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xopintrin.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_profiler_builtin.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xopintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/pconfigintrin.h:
 
@@ -5151,9 +6479,9 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/gfniintrin.h:
 
-C:/msys64/mingw64/include/SDL2/SDL_main.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/misc/lv_tree.h:
+
+C:/msys64/mingw64/include/SDL2/SDL_main.h:
 
 C:/msys64/mingw64/include/sec_api/wchar_s.h:
 
@@ -5171,9 +6499,9 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/cetintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/others/fragment/lv_fragment.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2mediaintrin.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/stdlib/lv_mem.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2mediaintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512fintrin.h:
 
@@ -5183,13 +6511,13 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/themes/lv_theme.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/others/font_manager/lv_example_font_manager.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/tick/lv_tick.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/animimage/lv_animimage.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/others/font_manager/lv_example_font_manager.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/3dtexture/lv_3dtexture.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/animimage/lv_animimage.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arc/lv_arc.h:
 
@@ -5197,31 +6525,31 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/arclabel/lv_arclabel.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/win/lv_win.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/button/lv_button.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/win/lv_win.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/lottie/lv_lottie.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/buttonmatrix/lv_buttonmatrix.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsavecintrin.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsavecintrin.h:
 
 C:/msys64/mingw64/include/_timeval.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/calendar/lv_calendar_chinese.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vldqintrin.h:
-
 C:/msys64/mingw64/include/sys/types.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vldqintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/canvas/lv_canvas.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/enqcmdintrin.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/checkbox/lv_checkbox.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/enqcmdintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxcomplexintrin.h:
 
@@ -5231,29 +6559,29 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/msys64/mingw64/include/setjmp.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/porting/osal/lv_example_osal.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/ime/lv_ime_pinyin.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/porting/osal/lv_example_osal.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/keyboard/lv_keyboard.h:
 
-C:/msys64/mingw64/include/sys/timeb.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/label/lv_label.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sha512intrin.h:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/pkuintrin.h:
+C:/msys64/mingw64/include/sys/timeb.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/list/lv_list.h:
 
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/pkuintrin.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sha512intrin.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/float.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512fp16intrin.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/msgbox/lv_msgbox.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_touch.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/msgbox/lv_msgbox.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512fp16intrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/roller/lv_roller.h:
 
@@ -5275,17 +6603,17 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vpopcntdqvlint
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/switch/lv_switch.h:
 
-C:/msys64/mingw64/include/psdk_inc/intrin-impl.h:
-
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/others/file_explorer/lv_example_file_explorer.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/fonts.h:
+
+C:/msys64/mingw64/include/psdk_inc/intrin-impl.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/table/lv_table.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clwbintrin.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/others/file_explorer/lv_example_file_explorer.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/tabview/lv_tabview.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clwbintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/src/widgets/textarea/lv_textarea.h:
 
@@ -5301,9 +6629,9 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/list/list_gen.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_animations_gen.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/visor/visor_gen.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_animations_gen.h:
 
 C:/msys64/mingw64/include/_mingw.h:
 
@@ -5311,9 +6639,9 @@ C:/msys64/mingw64/include/_mingw_off_t.h:
 
 C:/msys64/mingw64/include/_mingw_secapi.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/tmmintrin.h:
-
 C:/msys64/mingw64/include/_mingw_stdarg.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/tmmintrin.h:
 
 C:/msys64/mingw64/include/float.h:
 
@@ -5321,13 +6649,11 @@ C:/msys64/mingw64/include/corecrt.h:
 
 C:/msys64/mingw64/include/corecrt_stdio_config.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsaveoptintrin.h:
-
 C:/msys64/mingw64/include/crtdefs.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/fxsrintrin.h:
-
 C:/msys64/mingw64/include/inttypes.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/fxsrintrin.h:
 
 C:/msys64/mingw64/include/limits.h:
 
@@ -5335,9 +6661,9 @@ C:/msys64/mingw64/include/math.h:
 
 C:/msys64/mingw64/include/sdks/_mingw_ddk.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/raointintrin.h:
-
 C:/msys64/mingw64/include/SDL2/SDL_loadso.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/raointintrin.h:
 
 C:/msys64/mingw64/include/sec_api/stdio_s.h:
 
@@ -5351,9 +6677,9 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/msys64/mingw64/include/swprintf.inl:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/vars.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/images.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/vars.h:
 
 C:/msys64/mingw64/include/vadefs.h:
 
@@ -5363,27 +6689,33 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/layouts/flex/lv_example_flex.h:
-
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bwintrin.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/layouts/flex/lv_example_flex.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/arc/arc_gen.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bwintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/arc/infinite_knob.c:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/arc/infinite_knob.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/actions.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/button_back_gen.c:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/home_button.c:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons/home_button.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/list/list_gen.c:
 
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/actions.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/keylockerintrin.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/styles.c:
-
 C:/msys64/mingw64/include/corecrt_wstdlib.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/styles.c:
 
 C:/msys64/mingw64/include/malloc.h:
 
@@ -5395,11 +6727,31 @@ C:/msys64/mingw64/include/stdlib.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512satcvtintrin.h:
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_wifi_gen.h:
+
+C:/msys64/mingw64/include/pthread_compat.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vbmiintrin.h:
+
+C:/msys64/mingw64/include/pthread_time.h:
+
+C:/msys64/mingw64/include/sec_api/sys/timeb_s.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/freetype/lv_example_freetype.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/menu/time_gen.h:
+
+C:/msys64/mingw64/include/SDL2/SDL_gesture.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/visor/visor_gen.c:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_animations_gen.c:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/visor/visor_gen.c:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512satcvtintrin.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/images/logo_hwit.c:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/screens/screen_menu_gen.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_thread.h:
 
@@ -5411,9 +6763,9 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vpopcntdqintrin.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/others/gridnav/lv_example_gridnav.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/ui.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/others/gridnav/lv_example_gridnav.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/ui.c:
 
@@ -5423,9 +6775,9 @@ C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simula
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui/ui_image_temperature.c:
 
-C:/msys64/mingw64/include/SDL2/SDL_system.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/ui_animations.c:
+
+C:/msys64/mingw64/include/SDL2/SDL_system.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/src/hal/hal.h:
 
@@ -5433,15 +6785,15 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxmovrsintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/demos/lv_demos.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clflushoptintrin.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/anim/lv_example_anim.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clflushoptintrin.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/event/lv_example_event.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/scroll/lv_example_scroll.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/grad/lv_example_grad.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/scroll/lv_example_scroll.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/layouts/grid/lv_example_grid.h:
 
@@ -5455,25 +6807,21 @@ C:/msys64/mingw64/include/corecrt_startup.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/bmp/lv_example_bmp.h:
 
-C:/msys64/mingw64/include/sec_api/sys/timeb_s.h:
-
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/freetype/lv_example_freetype.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/libwebp/lv_example_libwebp.h:
+
+C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/lodepng/lv_example_lodepng.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/wmmintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/usermsrintrin.h:
 
-C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/lodepng/lv_example_lodepng.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/lv_example_libs.h:
 
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/qrcode/lv_example_qrcode.h:
 
-C:/msys64/mingw64/include/pthread_unistd.h:
-
 C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/lvgl/examples/libs/svg/lv_example_svg.h:
+
+C:/msys64/mingw64/include/pthread_unistd.h:
 
 C:/msys64/mingw64/include/io.h:
 
@@ -5513,9 +6861,9 @@ C:/msys64/mingw64/include/SDL2/SDL_blendmode.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_config.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/movrsintrin.h:
-
 C:/msys64/mingw64/include/SDL2/SDL_cpuinfo.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/movrsintrin.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_endian.h:
 
@@ -5526,8 +6874,6 @@ C:/msys64/mingw64/include/SDL2/SDL_events.h:
 C:/msys64/mingw64/include/SDL2/SDL_filesystem.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_gamecontroller.h:
-
-C:/msys64/mingw64/include/SDL2/SDL_gesture.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_guid.h:
 
@@ -5541,11 +6887,11 @@ C:/msys64/mingw64/include/SDL2/SDL_joystick.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_keycode.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/cldemoteintrin.h:
+C:/msys64/mingw64/include/SDL2/SDL_log.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxavx512intrin.h:
 
-C:/msys64/mingw64/include/SDL2/SDL_log.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/cldemoteintrin.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_metal.h:
 
@@ -5553,11 +6899,11 @@ C:/msys64/mingw64/include/SDL2/SDL_mutex.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_rect.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/vaesintrin.h:
+C:/msys64/mingw64/include/SDL2/SDL_render.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/lwpintrin.h:
 
-C:/msys64/mingw64/include/SDL2/SDL_render.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/vaesintrin.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_sensor.h:
 
@@ -5581,19 +6927,13 @@ C:/msys64/mingw64/include/ctype.h:
 
 C:/msys64/mingw64/include/process.h:
 
-C:/msys64/mingw64/include/pthread_compat.h:
-
 C:/msys64/mingw64/include/pthread_signal.h:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vbmiintrin.h:
-
-C:/msys64/mingw64/include/pthread_time.h:
 
 C:/msys64/mingw64/include/sched.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/emmintrin.h:
-
 C:/msys64/mingw64/include/strings.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/emmintrin.h:
 
 C:/msys64/mingw64/include/unistd.h:
 
@@ -5605,11 +6945,11 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxbf16intrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxfp16intrin.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512dqintrin.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxfp8intrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2convertintrin.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxfp8intrin.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512dqintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxint8intrin.h:
 
@@ -5716,6 +7056,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/wbnoinvdintrin.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/x86intrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xmmintrin.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsaveoptintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsavesintrin.h:
 

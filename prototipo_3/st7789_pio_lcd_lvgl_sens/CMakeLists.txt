@@ -51,6 +51,8 @@ screens/screen_menu_gen.c
 screens/screen_wifi_gen.c
 images/logo_hwit.c
 
+wifi.c
+
 )
 
 pico_generate_pio_header(st7789_pio_lcd_lvgl_sens1 ${CMAKE_CURRENT_LIST_DIR}/st7789_lcd.pio)
@@ -61,12 +63,12 @@ pico_set_program_name(st7789_pio_lcd_lvgl_sens1 "st7789_pio_lcd_lvgl_sens1")
 pico_set_program_version(st7789_pio_lcd_lvgl_sens1 "0.1")
 
 # Modify the below lines to enable/disable output over UART/USB
-pico_enable_stdio_uart(st7789_pio_lcd_lvgl_sens1 1)
+pico_enable_stdio_uart(st7789_pio_lcd_lvgl_sens1 0)
 pico_enable_stdio_usb(st7789_pio_lcd_lvgl_sens1 1)
 
 # Add the standard library to the build
 target_link_libraries(st7789_pio_lcd_lvgl_sens1
-        pico_stdlib hardware_pio hardware_i2c)
+        pico_stdlib hardware_pio hardware_i2c pico_multicore)
 
 # Add the standard include files to the build
 target_include_directories(st7789_pio_lcd_lvgl_sens1 PRIVATE
@@ -79,11 +81,12 @@ set(LV_CONF_INCLUDE_SIMPLE ON) # jrfo - added
 add_subdirectory(ui) # jrfo - added
 
 # Add any user requested libraries
-target_link_libraries(st7789_pio_lcd_lvgl_sens1
-        pico_cyw43_arch_none 
+target_link_libraries(st7789_pio_lcd_lvgl_sens1 
+        pico_cyw43_arch_lwip_threadsafe_background
         lvgl
         ui
         m
+        hardware_rtc
         )
 
 # This includes the generated list of .c files

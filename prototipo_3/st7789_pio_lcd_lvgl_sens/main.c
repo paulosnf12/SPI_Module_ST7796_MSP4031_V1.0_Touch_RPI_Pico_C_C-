@@ -21,6 +21,7 @@
 
 #include "ft6336u.h"
 
+#include "wifi_handler.h"
 
 #define BUTTON_A_PIN 5 // Button A pin from the schematic
 #define BUTTON_B_PIN 6 // Button B pin from the schematic
@@ -187,16 +188,9 @@ int main() {
     // Initialize button debounce timers
     last_debounce_time_a = get_absolute_time(); // Initialize last debounce time for Button A
     last_debounce_time_b = get_absolute_time(); // Initialize last debounce time for Button B
-
-    // Initialise the Wi-Fi chip
-    if (cyw43_arch_init()) {
-        printf("Wi-Fi init failed\n");
-        return -1;
-    }
-
-    // Turn on the Pico W LED
-    cyw43_arch_gpio_put(CYW43_WL_GPIO_LED_PIN, 1);
     
+    multicore_launch_core1(wifi_task); // Start Wi-Fi on second core
+
     // Initialize the PIO state machine for ST7789 LCD
     uint offset = pio_add_program(pio, &st7789_lcd_program); // Add the ST7789 LCD PIO program to the PIO state machine
     st7789_lcd_program_init(pio, sm, offset, PIN_DIN, PIN_CLK, SERIAL_CLK_DIV); // Initialize the PIO state machine for ST7789 LCD
@@ -257,16 +251,16 @@ int main() {
  
     ui_animations_init("screens/"); // Point to the screens folder for assets
 
+    
 
     //carregar a tela inicial do lvgl editor (screens)
     obj_tela = screen_animations_create();
     lv_screen_load(obj_tela);
 
-    while(1) {
+    while(1) { 
 
         // define absolute time variable and last button pressed time variable
         absolute_time_t now = get_absolute_time(), last_btn_pressed_time;
-        
 
         enum scaleGraph scale_graph = SCALE_MINUTE; // Scale graph to fit temperature and humidity values 0=minute, 1=hour, 2=day
         static int buffer_index = 0, percentage_to_30min=0;
@@ -285,7 +279,7 @@ int main() {
     lv_display_delete(lcd_disp);
     lv_free(buf1);
     lv_free(buf2);
-    cyw43_arch_deinit();
+    //cyw43_arch_deinit();
     
     return 0;
 }

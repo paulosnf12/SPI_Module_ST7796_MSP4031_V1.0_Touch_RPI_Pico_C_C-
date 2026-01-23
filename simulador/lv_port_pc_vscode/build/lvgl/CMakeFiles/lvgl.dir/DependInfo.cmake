@@ -27,6 +27,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/arc"
   "C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/buttons"
   "C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/list"
+  "C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/menu"
   "C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/components/visor"
   "C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/fonts"
   "C:/Users/saopa/Desktop/SPI_Module_ST7796_MSP4031_V1.0_Touch_RPI_Pico_C_C-/simulador/lv_port_pc_vscode/projeto/images"

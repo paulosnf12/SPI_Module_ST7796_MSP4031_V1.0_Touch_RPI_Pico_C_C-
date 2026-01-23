@@ -222,6 +222,17 @@ lv_obj_t * visor_create(lv_obj_t * parent)
                     6,
                     -6);
 
+    // --- CORREÇÃO INÍCIO ---
+
+    // 1. Força o LVGL a calcular as posições e tamanhos (necessário para o cálculo do centro da agulha)
+    lv_obj_update_layout(root);
+
+    // 2. Define um valor inicial (0.0f) para que a agulha seja desenhada e os textos alinhados
+    // Isso fará a trigonometria rodar e tirará a agulha do canto (0,0)
+    visor_set_value_float(0.0f);
+
+    // --- CORREÇÃO FIM ---
+
     return root;
 }
 

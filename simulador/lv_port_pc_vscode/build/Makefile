@@ -286,6 +286,30 @@ projeto/components/arc/infinite_knob.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/arc/infinite_knob.c.s
 .PHONY : projeto/components/arc/infinite_knob.c.s
 
+projeto/components/buttons/button_back_gen.obj: projeto/components/buttons/button_back_gen.c.obj
+.PHONY : projeto/components/buttons/button_back_gen.obj
+
+# target to build an object file
+projeto/components/buttons/button_back_gen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/button_back_gen.c.obj
+.PHONY : projeto/components/buttons/button_back_gen.c.obj
+
+projeto/components/buttons/button_back_gen.i: projeto/components/buttons/button_back_gen.c.i
+.PHONY : projeto/components/buttons/button_back_gen.i
+
+# target to preprocess a source file
+projeto/components/buttons/button_back_gen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/button_back_gen.c.i
+.PHONY : projeto/components/buttons/button_back_gen.c.i
+
+projeto/components/buttons/button_back_gen.s: projeto/components/buttons/button_back_gen.c.s
+.PHONY : projeto/components/buttons/button_back_gen.s
+
+# target to generate assembly for a file
+projeto/components/buttons/button_back_gen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/button_back_gen.c.s
+.PHONY : projeto/components/buttons/button_back_gen.c.s
+
 projeto/components/buttons/button_normal_gen.obj: projeto/components/buttons/button_normal_gen.c.obj
 .PHONY : projeto/components/buttons/button_normal_gen.obj
 
@@ -334,6 +358,30 @@ projeto/components/buttons/button_show_numpad_gen.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/button_show_numpad_gen.c.s
 .PHONY : projeto/components/buttons/button_show_numpad_gen.c.s
 
+projeto/components/buttons/home_button.obj: projeto/components/buttons/home_button.c.obj
+.PHONY : projeto/components/buttons/home_button.obj
+
+# target to build an object file
+projeto/components/buttons/home_button.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/home_button.c.obj
+.PHONY : projeto/components/buttons/home_button.c.obj
+
+projeto/components/buttons/home_button.i: projeto/components/buttons/home_button.c.i
+.PHONY : projeto/components/buttons/home_button.i
+
+# target to preprocess a source file
+projeto/components/buttons/home_button.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/home_button.c.i
+.PHONY : projeto/components/buttons/home_button.c.i
+
+projeto/components/buttons/home_button.s: projeto/components/buttons/home_button.c.s
+.PHONY : projeto/components/buttons/home_button.s
+
+# target to generate assembly for a file
+projeto/components/buttons/home_button.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/buttons/home_button.c.s
+.PHONY : projeto/components/buttons/home_button.c.s
+
 projeto/components/list/list_gen.obj: projeto/components/list/list_gen.c.obj
 .PHONY : projeto/components/list/list_gen.obj
 
@@ -357,6 +405,30 @@ projeto/components/list/list_gen.s: projeto/components/list/list_gen.c.s
 projeto/components/list/list_gen.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/list/list_gen.c.s
 .PHONY : projeto/components/list/list_gen.c.s
+
+projeto/components/menu/time_gen.obj: projeto/components/menu/time_gen.c.obj
+.PHONY : projeto/components/menu/time_gen.obj
+
+# target to build an object file
+projeto/components/menu/time_gen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/menu/time_gen.c.obj
+.PHONY : projeto/components/menu/time_gen.c.obj
+
+projeto/components/menu/time_gen.i: projeto/components/menu/time_gen.c.i
+.PHONY : projeto/components/menu/time_gen.i
+
+# target to preprocess a source file
+projeto/components/menu/time_gen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/menu/time_gen.c.i
+.PHONY : projeto/components/menu/time_gen.c.i
+
+projeto/components/menu/time_gen.s: projeto/components/menu/time_gen.c.s
+.PHONY : projeto/components/menu/time_gen.s
+
+# target to generate assembly for a file
+projeto/components/menu/time_gen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/menu/time_gen.c.s
+.PHONY : projeto/components/menu/time_gen.c.s
 
 projeto/components/visor/visor_gen.obj: projeto/components/visor/visor_gen.c.obj
 .PHONY : projeto/components/visor/visor_gen.obj
@@ -382,6 +454,30 @@ projeto/components/visor/visor_gen.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/components/visor/visor_gen.c.s
 .PHONY : projeto/components/visor/visor_gen.c.s
 
+projeto/images/logo_hwit.obj: projeto/images/logo_hwit.c.obj
+.PHONY : projeto/images/logo_hwit.obj
+
+# target to build an object file
+projeto/images/logo_hwit.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/images/logo_hwit.c.obj
+.PHONY : projeto/images/logo_hwit.c.obj
+
+projeto/images/logo_hwit.i: projeto/images/logo_hwit.c.i
+.PHONY : projeto/images/logo_hwit.i
+
+# target to preprocess a source file
+projeto/images/logo_hwit.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/images/logo_hwit.c.i
+.PHONY : projeto/images/logo_hwit.c.i
+
+projeto/images/logo_hwit.s: projeto/images/logo_hwit.c.s
+.PHONY : projeto/images/logo_hwit.s
+
+# target to generate assembly for a file
+projeto/images/logo_hwit.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/images/logo_hwit.c.s
+.PHONY : projeto/images/logo_hwit.c.s
+
 projeto/screens/screen_animations_gen.obj: projeto/screens/screen_animations_gen.c.obj
 .PHONY : projeto/screens/screen_animations_gen.obj
 
@@ -405,6 +501,54 @@ projeto/screens/screen_animations_gen.s: projeto/screens/screen_animations_gen.c
 projeto/screens/screen_animations_gen.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/screens/screen_animations_gen.c.s
 .PHONY : projeto/screens/screen_animations_gen.c.s
+
+projeto/screens/screen_menu_gen.obj: projeto/screens/screen_menu_gen.c.obj
+.PHONY : projeto/screens/screen_menu_gen.obj
+
+# target to build an object file
+projeto/screens/screen_menu_gen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/screens/screen_menu_gen.c.obj
+.PHONY : projeto/screens/screen_menu_gen.c.obj
+
+projeto/screens/screen_menu_gen.i: projeto/screens/screen_menu_gen.c.i
+.PHONY : projeto/screens/screen_menu_gen.i
+
+# target to preprocess a source file
+projeto/screens/screen_menu_gen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/screens/screen_menu_gen.c.i
+.PHONY : projeto/screens/screen_menu_gen.c.i
+
+projeto/screens/screen_menu_gen.s: projeto/screens/screen_menu_gen.c.s
+.PHONY : projeto/screens/screen_menu_gen.s
+
+# target to generate assembly for a file
+projeto/screens/screen_menu_gen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/screens/screen_menu_gen.c.s
+.PHONY : projeto/screens/screen_menu_gen.c.s
+
+projeto/screens/screen_wifi_gen.obj: projeto/screens/screen_wifi_gen.c.obj
+.PHONY : projeto/screens/screen_wifi_gen.obj
+
+# target to build an object file
+projeto/screens/screen_wifi_gen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/screens/screen_wifi_gen.c.obj
+.PHONY : projeto/screens/screen_wifi_gen.c.obj
+
+projeto/screens/screen_wifi_gen.i: projeto/screens/screen_wifi_gen.c.i
+.PHONY : projeto/screens/screen_wifi_gen.i
+
+# target to preprocess a source file
+projeto/screens/screen_wifi_gen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/screens/screen_wifi_gen.c.i
+.PHONY : projeto/screens/screen_wifi_gen.c.i
+
+projeto/screens/screen_wifi_gen.s: projeto/screens/screen_wifi_gen.c.s
+.PHONY : projeto/screens/screen_wifi_gen.s
+
+# target to generate assembly for a file
+projeto/screens/screen_wifi_gen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/projeto/screens/screen_wifi_gen.c.s
+.PHONY : projeto/screens/screen_wifi_gen.c.s
 
 projeto/ui/images.obj: projeto/ui/images.c.obj
 .PHONY : projeto/ui/images.obj
@@ -742,21 +886,39 @@ help:
 	@echo ... projeto/components/arc/infinite_knob.obj
 	@echo ... projeto/components/arc/infinite_knob.i
 	@echo ... projeto/components/arc/infinite_knob.s
+	@echo ... projeto/components/buttons/button_back_gen.obj
+	@echo ... projeto/components/buttons/button_back_gen.i
+	@echo ... projeto/components/buttons/button_back_gen.s
 	@echo ... projeto/components/buttons/button_normal_gen.obj
 	@echo ... projeto/components/buttons/button_normal_gen.i
 	@echo ... projeto/components/buttons/button_normal_gen.s
 	@echo ... projeto/components/buttons/button_show_numpad_gen.obj
 	@echo ... projeto/components/buttons/button_show_numpad_gen.i
 	@echo ... projeto/components/buttons/button_show_numpad_gen.s
+	@echo ... projeto/components/buttons/home_button.obj
+	@echo ... projeto/components/buttons/home_button.i
+	@echo ... projeto/components/buttons/home_button.s
 	@echo ... projeto/components/list/list_gen.obj
 	@echo ... projeto/components/list/list_gen.i
 	@echo ... projeto/components/list/list_gen.s
+	@echo ... projeto/components/menu/time_gen.obj
+	@echo ... projeto/components/menu/time_gen.i
+	@echo ... projeto/components/menu/time_gen.s
 	@echo ... projeto/components/visor/visor_gen.obj
 	@echo ... projeto/components/visor/visor_gen.i
 	@echo ... projeto/components/visor/visor_gen.s
+	@echo ... projeto/images/logo_hwit.obj
+	@echo ... projeto/images/logo_hwit.i
+	@echo ... projeto/images/logo_hwit.s
 	@echo ... projeto/screens/screen_animations_gen.obj
 	@echo ... projeto/screens/screen_animations_gen.i
 	@echo ... projeto/screens/screen_animations_gen.s
+	@echo ... projeto/screens/screen_menu_gen.obj
+	@echo ... projeto/screens/screen_menu_gen.i
+	@echo ... projeto/screens/screen_menu_gen.s
+	@echo ... projeto/screens/screen_wifi_gen.obj
+	@echo ... projeto/screens/screen_wifi_gen.i
+	@echo ... projeto/screens/screen_wifi_gen.s
 	@echo ... projeto/ui/images.obj
 	@echo ... projeto/ui/images.i
 	@echo ... projeto/ui/images.s
