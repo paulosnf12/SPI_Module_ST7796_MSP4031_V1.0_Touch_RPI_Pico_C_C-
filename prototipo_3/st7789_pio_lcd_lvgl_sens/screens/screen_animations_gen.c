@@ -33,6 +33,8 @@
 /* Tela de menu principal */
 #include "../screens/screen_menu_gen.h"
 
+#include "../components/label/wifi_gen.h"
+
 /*********************
  * ASSETS
  *********************/
@@ -74,6 +76,13 @@ static void hide_list_ready_cb(lv_anim_t * a);
 
 /* Callback do botão Home */
 static void home_button_event_cb(lv_event_t * e);
+
+static lv_timer_t * clock_timer = NULL;
+
+/* Callback para atualizar o relógio a cada segundo */
+static void clock_timer_cb(lv_timer_t * timer) {
+    wifi_label_update();
+}
 
 /**********************
  * GLOBAL FUNCTIONS
@@ -183,6 +192,14 @@ lv_obj_t * screen_animations_create(void)
 
     /* Garante que o logo fique em primeiro plano */
     lv_obj_move_foreground(img_logo);
+
+
+    wifi_label_create(screen_animations);
+
+    /* Cria um timer para atualizar o relógio a cada 1000ms (1 segundo) */
+    if (clock_timer == NULL) {
+        clock_timer = lv_timer_create(clock_timer_cb, 1000, NULL);
+    }
 
     /***************************
      * TIMELINE
