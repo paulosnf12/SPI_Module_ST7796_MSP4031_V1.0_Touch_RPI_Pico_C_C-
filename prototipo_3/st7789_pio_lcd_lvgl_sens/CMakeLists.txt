@@ -45,6 +45,7 @@ components/visor/visor_gen.c
 components/arc/infinite_knob.c
 components/buttons/home_button.c
 components/menu/time_gen.c
+components/label/wifi_gen.c
 
 components/buttons/button_back_gen.c
 screens/screen_menu_gen.c
