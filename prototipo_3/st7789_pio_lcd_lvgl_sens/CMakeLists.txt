@@ -54,6 +54,8 @@ images/logo_hwit.c
 
 wifi.c
 
+ad5592r.c
+
 )
 
 pico_generate_pio_header(st7789_pio_lcd_lvgl_sens1 ${CMAKE_CURRENT_LIST_DIR}/st7789_lcd.pio)
@@ -88,6 +90,7 @@ target_link_libraries(st7789_pio_lcd_lvgl_sens1
         ui
         m
         hardware_rtc
+        hardware_spi
         )
 
 # This includes the generated list of .c files

@@ -23,6 +23,8 @@
 
 #include "wifi_handler.h"
 
+#include "ad5592r.h"
+
 #define BUTTON_A_PIN 5 // Button A pin from the schematic
 #define BUTTON_B_PIN 6 // Button B pin from the schematic
 #define DEBOUNCE_DELAY_MS 20 // Debounce delay in milliseconds
@@ -157,7 +159,7 @@ static void touch_driver_read(lv_indev_t * indev, lv_indev_data_t * data) {
         data->point.x = 480 - points[0].x;
         data->point.y = points[0].y; 
 
-        printf("Toque em X: %d, Y: %d\n", data->point.x, data->point.y);
+        //printf("Toque em X: %d, Y: %d\n", data->point.x, data->point.y);
 
     } else {
         // Nenhum toque detectado
@@ -177,6 +179,11 @@ int main() {
     stdio_init_all(); // Initialize standard I/O for debugging
 
     sleep_ms(2000); // Wait for 2 seconds to allow time for USB serial connection
+
+
+    // Inicializa o chip AD5592R (SPI, Pinos e Configuração de DAC)
+    ad5592r_init(); 
+
     
     // Initialize Button A and Button B pins
     gpio_init(BUTTON_A_PIN); // Initialize Button A pin
@@ -271,6 +278,9 @@ int main() {
         #endif
 
         lv_task_handler(); // Handle LVGL tasks
+        //printf("Loop principal rodando...\n"); // Print a message to indicate the main loop is running
+
+         // Read Button A state and handle debounce
         sleep_ms(10); // Sleep to allow other tasks to run
 
     }

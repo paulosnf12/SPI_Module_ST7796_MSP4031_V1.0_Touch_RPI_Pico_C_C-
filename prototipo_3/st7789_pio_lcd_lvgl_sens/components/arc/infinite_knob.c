@@ -9,6 +9,8 @@
 #include <math.h>
 #include "lvgl.h"
 
+#include "../../ad5592r.h" 
+
 /*********************
  * CONSTANTES
  *********************/
@@ -17,6 +19,12 @@
 /* Limites em mW */
 #define MW_MIN 0.02f
 #define MW_MAX 2.0f
+
+// --- NOVOS LIMITES (DAC 12 BITS) ---
+#define DAC_MIN 0
+#define DAC_MAX 4095
+
+#define KNOB_DAC_STEP 5  // Cada grau gira 5 bits (rápido)
 
 /* Sensibilidade: mW por grau */
 #define KNOB_SENSITIVITY 0.001f
@@ -30,6 +38,9 @@
  *********************/
 static float current_value_mw = 0.1f;
 static lv_obj_t *arc_obj = NULL;
+
+// Agora controlamos INTEIROS (0 a 4095), não mais float mW
+static int32_t current_dac_val = 0;
 
 static float last_angle = 0.0f;
 static bool is_dragging = false;
@@ -62,6 +73,9 @@ lv_obj_t *infinite_knob_create(lv_obj_t *parent)
     lv_obj_add_event_cb(arc_obj, arc_event_cb, LV_EVENT_ALL, NULL);
 
     lv_arc_set_value(arc_obj, 0);
+
+    // Inicializa hardware no zero também
+    ad5592r_set_dac(DAC_CHANNEL_IO3, 0);
 
     return arc_obj;
 }
@@ -119,6 +133,22 @@ static float calculate_touch_angle(lv_obj_t *obj, lv_point_t *p)
     return ang;
 }
 
+
+// Função auxiliar para mapear float (mW) para uint16 (DAC 0-4095)
+static uint16_t map_mw_to_dac(float mw) {
+    // MW_MIN = 0.02f, MW_MAX = 2.0f (definidos no .h ou .c original)
+    // Se mw <= min -> 0
+    // Se mw >= max -> 4095
+    
+    if (mw <= MW_MIN) return 0;
+    if (mw >= MW_MAX) return 4095;
+
+    // Regra de três simples (Linear)
+    float percentage = (mw - MW_MIN) / (MW_MAX - MW_MIN);
+    return (uint16_t)(percentage * 4095.0f);
+}
+
+
 /*********************
  * EVENT HANDLER
  *********************/
@@ -163,6 +193,33 @@ static void arc_event_cb(lv_event_t *e)
         last_angle = angle;
         if (fabsf(diff) < 0.2f) return;
 
+        // --- LÓGICA DE CONTROLE DIRETO DO DAC ---
+        
+        // Calcula a mudança baseada no ângulo * sensibilidade
+        int change = (int)(diff * KNOB_DAC_STEP); 
+
+        // Atualiza o valor acumulado
+        int32_t novo_valor = current_dac_val + change;
+
+        // Limita entre 0 e 4095
+        if (novo_valor > DAC_MAX) novo_valor = DAC_MAX;
+        if (novo_valor < DAC_MIN) novo_valor = DAC_MIN;
+
+        // Se houve mudança, atualiza hardware
+        if (novo_valor != current_dac_val)
+        {
+            current_dac_val = novo_valor;
+            
+            // 1. Envia para o Driver AD5592R
+            ad5592r_set_dac(DAC_CHANNEL_IO3, (uint16_t)current_dac_val);
+
+            // 2. Printa no terminal para você debugar na BitDogLab
+            // Calcula tensão estimada (assumindo 5V de referência)
+            float tensao = (current_dac_val * 5.0f) / 4095.0f;
+            printf("KNOB GIRANDO: Diff=%.1f | DAC=%4d (0-4095) | V=%.2fV\n", 
+                   diff, current_dac_val, tensao);
+                }
+
         float novo_mw = current_value_mw + diff * KNOB_SENSITIVITY;
 
         if (novo_mw > MW_MAX) novo_mw = MW_MAX;
@@ -172,6 +229,15 @@ static void arc_event_cb(lv_event_t *e)
         {
             current_value_mw = novo_mw;
             visor_set_value_float(current_value_mw);
+
+            // 1. Converte o valor de mW para bits do DAC (0 a 4095)
+            uint16_t dac_value = map_mw_to_dac(current_value_mw);
+            
+            // 2. Envia para o hardware (Canal 3, conforme seu exemplo)
+            ad5592r_set_dac(DAC_CHANNEL_IO3, dac_value);
+            // ------------------------------
+
+            printf("Valor atualizado: %.3f mW -> DAC: %d\n", current_value_mw, dac_value);
         }
 
         float visual_angle = angle + ARC_ROTATION_OFFSET;
