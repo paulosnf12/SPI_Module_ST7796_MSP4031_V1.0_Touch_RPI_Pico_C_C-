@@ -1,0 +1,37 @@
+<component>
+	<animations>
+		<timeline name="display_fade_in">
+			<animation prop="opa" start="0" end="255" duration="300" early_apply="true" target="self" />
+			<animation prop="translate_x" start="60" end="0" duration="300" early_apply="true" target="self" />
+		</timeline>
+	</animations>
+
+	<view
+		flex_flow="column"
+		style_pad_all="#unit_medium"
+		style_flex_main_place="center"
+		style_flex_track_place="center"
+		style_bg_color="0x0a0a0a"
+		style_radius="10"
+		style_border_width="2"
+		style_border_color="0x1e90ff"
+		style_shadow_width="10"
+		style_shadow_color="0x102030"
+		width="100%"
+		height="100%"
+	>
+		<lv_textarea
+			name="number_display"
+			width="95%"
+			height="80%"
+			style_text_align="right"
+			style_text_color="0xffffff"
+			style_bg_color="0x001030"
+			style_border_color="0x1e90ff"
+			style_border_width="2"
+			style_radius="8"
+			style_pad_all="#unit_medium"
+			text="0"
+		/>
+	</view>
+</component>
