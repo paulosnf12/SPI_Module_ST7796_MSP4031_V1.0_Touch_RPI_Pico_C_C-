@@ -105,3 +105,8 @@ A arquitetura de software é dividida em processamento de interface, controle de
 ## 📄 Licenças de Uso
 
 Este projeto está sob a licença **MIT**. Você é livre para utilizar, modificar e distribuir o código, desde que mantenha os avisos de direitos autorais originais. Veja o arquivo `LICENSE` para mais detalhes.
+
+## Vídeo de Execução do Projeto
+
+https://github.com/user-attachments/assets/f9815e70-19a1-45fe-bee8-40e30a1069f8
+
